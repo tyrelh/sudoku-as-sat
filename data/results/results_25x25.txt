@@ -1,0 +1,1407 @@
+Game 1
+c 4 3 1 5 6 7 8 a i n b d e o g h 2 j k l m f 9 p 
+2 m 8 a p 1 o 5 4 k 6 7 f 9 3 b c d l e n h i j g 
+g b i 9 h l m n j p 1 2 8 4 5 6 7 f 3 a d c k o e 
+j n d o f g h 2 3 e l k c m p i 1 9 4 5 6 b 8 7 a 
+6 k l e 7 9 c d b f g h i j a p 8 n o m 1 2 3 4 5 
+a g 4 p 6 7 8 9 d b f c e k m h 3 j i l 2 n o 5 1 
+1 3 o f n m 6 4 p 5 7 g 9 a b c d e 2 8 h i j k l 
+h i 9 j l 2 n o f 1 8 3 4 5 6 7 k b a p c d e g m 
+b d e c m h i j k l 2 n o p 1 f g 4 5 6 7 8 9 a 3 
+7 8 5 2 k c 3 e g a h i j d l m n o 9 1 4 f b p 6 
+3 7 k 6 4 8 9 a m c d e 2 g h l 5 i 1 j b o p f n 
+m 9 p 5 1 k j g o 7 b 4 a n c d e 8 f h i 3 6 l 2 
+i j f l o n 4 p 1 2 3 8 5 6 7 9 m a b c g k d e h 
+d e n g 2 i 5 b l h m o p 1 f 3 4 k 6 7 8 9 a c j 
+8 h a b c d e f 6 3 i j k l 9 n o p g 2 m 4 5 1 7 
+o 5 6 7 8 b a 3 c 9 e d g h i 4 j l m n k p 1 2 f 
+n p 1 k 3 4 2 6 7 d 9 a b c 8 e f g h i j 5 l m o 
+9 2 j h e o p 1 n m 4 f l 7 k 8 a 5 c d 3 6 g b i 
+f c g m i j k l 5 8 o p 1 3 n 2 9 6 7 b e a 4 h d 
+l a b 4 d e f i h g 5 m 6 2 j o p 1 k 3 9 7 c n 8 
+5 o 7 8 9 a b c e n j 6 h i g k l m d f p 1 2 3 4 
+k 1 2 3 b 5 d 7 8 4 a 9 n f e j i h p g o l m 6 c 
+4 l m n j 3 1 k 9 6 p 5 7 8 d a 2 c e o f g h i b 
+e f h i g p l m 2 o c 1 3 b 4 5 6 7 8 9 a j n d k 
+p 6 c d a f g h i j k l m o 2 1 b 3 n 4 5 e 7 8 9 
+Time 20.7878
+
+Game 2
+5 4 3 8 o 1 2 7 9 a b c d e f n h i j k l m g 6 p 
+l g n j p 6 m 3 4 5 1 7 8 9 a o c b d f k h 2 e i 
+i m 7 1 k c l n e p g 2 3 4 h 9 a 8 6 5 b j f d o 
+b c d e f g h i j k l m 6 o 5 1 2 3 4 p 8 7 n 9 a 
+6 h 2 9 a b 8 d o f n p i j k l m 7 e g 1 c 3 4 5 
+p 3 i n 6 7 b 4 8 2 c d e a g h 5 j k l 9 f o m 1 
+m 7 o a 1 h 3 c 5 6 2 8 9 l b g d e f i 4 n j p k 
+h 2 j k l m n o p 1 f 3 4 5 6 7 8 9 a b i d e c g 
+c d e f g 9 i j k l m n o h p 2 3 4 1 6 7 8 5 a b 
+8 b 9 4 5 d a e f g 7 i j k 1 m n o p c 2 3 h l 6 
+3 6 4 5 c 8 9 k b o d e h g m j i n l 7 a 2 p 1 f 
+n o 8 p 2 3 4 5 1 7 a 9 b i c d k f g h e 6 m j l 
+1 i k l j 2 p 6 g c 3 4 f n 7 8 e a 9 m d o b 5 h 
+7 e f g h l j a m d 8 o p 6 2 3 4 5 b 1 n 9 i k c 
+d 9 a b m i e f h n j 5 k 1 l 6 o p c 2 3 4 8 g 7 
+4 p 6 7 8 o d b a h e f 5 c j k 9 l m n g i 1 2 3 
+2 n 1 c 3 4 5 9 7 8 o 6 a p d i f g h e m k l b j 
+a k l m e j 6 1 c 3 i h g 7 8 4 b 2 o d 5 p 9 f n 
+f 5 g o i n k p l m 9 b 1 2 3 a j 6 7 8 c e 4 h d 
+9 j b h d e f g 2 i 4 k l m n c p 1 5 3 o a 6 7 8 
+k 8 5 6 9 a o 2 d e h g 7 f i b l m n j p 1 c 3 4 
+o 1 p 2 4 5 7 8 3 9 k j c b e f g h i a 6 l d n m 
+j f m d b p 1 l 6 4 5 a n 8 9 e 7 c 3 o h g k i 2 
+g l h i 7 k c m n j p 1 2 3 4 5 6 d 8 9 f b a o e 
+e a c 3 n f g h i b 6 l m d o p 1 k 2 4 j 5 7 8 9 
+Time 31.7759
+
+Game 3
+5 p h 9 b 6 n 8 4 a e c d 7 f g 2 i j k m 3 1 o l 
+2 m i 4 8 1 9 3 o p 6 5 a b l n c d e f g h 7 j k 
+g k o j n l d i m 7 3 2 4 9 p h 1 8 6 a b c 5 e f 
+3 c d e f j h 2 g k 1 m n o 8 b l 7 4 5 6 p i 9 a 
+6 7 l 1 a b c 5 e f g h i j k 9 m 3 o p 8 2 d 4 n 
+m 3 k 5 d 7 8 e 9 b h j o f g 2 i 4 a l n 6 c p 1 
+b o n l 1 2 3 d p 6 c 8 9 a 4 k 7 5 f e i m j h g 
+h i j 7 p m k o a g l 3 2 n 6 c 8 9 b 1 4 d e f 5 
+c 2 e f g h i 4 n l m p b 5 1 6 d j 3 o k 8 9 a 7 
+4 8 9 a 6 c 5 1 f j d e 7 k i m n h p g 2 l b 3 o 
+e 4 5 6 c g 7 a b 3 n 9 f h d i j k l m p o 8 1 2 
+n j p o 2 5 4 9 k 1 8 6 e 3 c d b f g h 7 i a l m 
+1 l 3 k m i o p 6 2 j b 5 4 7 8 9 a n c d e f g h 
+i d f g h 8 j n l m 2 o p 1 a e 4 6 5 7 3 9 k b c 
+8 9 a b 7 d e f c h i g k l m 3 o p 1 2 5 j n 6 4 
+o e 6 8 5 9 a m i d 4 f l g b j k c 7 n h 1 p 2 3 
+d n 1 2 3 4 p 6 7 5 9 a 8 c e l f g h i j k o m b 
+j h 4 c l o 1 k 2 8 5 7 6 m 3 p a b 9 d e f g n i 
+7 f g p i 3 l b j n o k 1 2 h 4 5 e m 8 9 a 6 c d 
+9 a b m k e f g h c p i j d n o 6 1 2 3 l 5 4 7 8 
+l 6 7 d 9 a m h 5 e f n 3 i j 1 g o k b c 4 2 8 p 
+p 1 2 3 4 n b 7 8 9 a d c e 5 f h m i j o g l k 6 
+k 5 m n o p 2 c 3 4 b 1 g 8 9 a e l d 6 f 7 h i j 
+f g c i j k 6 l 1 o 7 4 h p 2 5 3 n 8 9 a b m d e 
+a b 8 h e f g j d i k l m 6 o 7 p 2 c 4 1 n 3 5 9 
+Time 1.65664
+
+Game 4
+g 2 3 4 5 6 7 8 9 a 1 c d e f b h i j k l m n o p 
+l m n o p 1 2 3 4 5 9 7 6 i k g c 8 e f a h d j b 
+1 h i j 8 l k p o n b m 3 4 5 6 2 d 7 a g c 9 e f 
+b c f e a m h d g j l 2 n o p 1 9 3 4 5 6 i 8 7 k 
+6 7 k 9 d b c i e f g h 8 j a l m n o p 1 2 3 4 5 
+j 3 4 5 k 2 8 m a 1 c d e f g h 7 o i 6 b n p 9 l 
+o n 2 p 1 i 3 4 5 6 7 8 9 a b c d f l e h j m k g 
+h 6 m i l g n b p 7 2 3 4 5 1 9 k j a 8 c d o f e 
+c d e f g h 9 j k l m n o p 6 2 3 4 5 b 7 8 i 1 a 
+7 8 9 a b o d e f c h i j k l n g m p 1 2 3 4 5 6 
+d 4 b 6 7 c 5 a i h n e f g 9 k j l 3 m 8 o 1 p 2 
+n k p 1 2 3 4 f 7 o 8 5 a b c d e h g 9 i 6 j l m 
+i o 5 l m p j 9 1 2 3 4 k 6 7 8 n a b c d e f g h 
+3 e j g f 8 6 k l m d o p h 2 i 4 5 1 7 n 9 a b c 
+8 9 a h c d e n b g i j 1 l m f o p 6 2 4 k 5 3 7 
+4 p 8 d 6 9 a 5 c k e f g 1 h j i b m n o 7 l 2 3 
+5 a 1 2 3 7 b 6 h 8 o 9 i c d e p g f l j 4 k m n 
+k j l m n 4 p 1 2 3 6 a b 7 8 o 5 9 c d e f g h i 
+e f g 7 i n o l m d j p 5 2 3 4 8 6 k h 9 a b c 1 
+9 b o c h e f g j i 4 k l m n 7 a 1 2 3 5 p 6 d 8 
+2 5 7 8 o a m c d b f g h 9 i 3 l k n j p 1 e 6 4 
+p 1 6 3 4 5 i 7 8 9 a b c d j m f e h g k l 2 n o 
+m l d n e k 1 2 3 p 5 6 7 8 4 a b c 9 o f g h i j 
+f g h k 9 j l o n 4 p 1 2 3 e 5 6 7 8 i m b c a d 
+a i c b j f g h 6 e k l m n o p 1 2 d 4 3 5 7 8 9 
+Time 8.42297
+
+Game 5
+1 i j 4 5 6 7 l 9 a 3 c d e f b h 8 g 2 p m n k o 
+d n l o p 1 5 m 4 3 9 2 8 6 a j e k 7 i g h b c f 
+g 9 m h k 2 c n o f b p 1 4 5 6 l 3 d a j i 8 e 7 
+b 6 e 3 f g h 8 j i l m k 7 n o c p 4 5 1 d 2 9 a 
+c 2 7 8 a b p d e k g h i j o n m 1 9 f l 6 3 4 5 
+2 3 4 5 b 7 e 9 a 8 6 d c f g h i j k l m n o p 1 
+9 7 k p 1 4 3 o f 6 m 8 j a b g d e n c h 2 i 5 l 
+h o 6 j l m n 5 p 1 2 3 4 9 i 7 8 f a b c k e g d 
+m c d f g h i j k l 1 n o p e 2 3 4 5 6 7 8 a b 9 
+e 8 n a i c d 2 b g h 5 7 k l m 9 o p 1 3 j 4 f 6 
+3 4 p 6 n 8 b a 1 c d e f l h i j 5 m 9 2 o k 7 g 
+j k o 1 2 i 4 7 6 5 8 9 p g c f n d e h b a l 3 m 
+i e 9 l m n o k 3 2 7 4 5 1 6 8 a g b p d c f j h 
+5 h f g c d j e l m n o a b k 3 4 2 6 7 8 9 p 1 i 
+8 d a b 7 p 9 f g h i j 2 3 m c o l 1 k n e 5 6 4 
+4 5 2 7 6 9 8 b c d e i g h 3 l f a j n o p 1 m k 
+o p 8 9 3 a 2 i 7 j 5 f b c d 1 k m h g e 4 6 l n 
+l j 1 m e o k 3 5 p 4 a 6 n 8 9 7 b 2 d i f g h c 
+a f g k h e 6 1 m n o 7 l 2 p 4 5 i c 8 9 3 j d b 
+n b i c d l f g h 4 j k 9 m 1 e p 6 o 3 a 5 7 2 8 
+7 a b d 8 5 l c 2 e f 1 h i j k 6 9 3 o 4 g m n p 
+p 1 3 n 4 f m 6 8 9 a b e 5 7 d g h i j k l c o 2 
+k m 5 2 o 3 g 4 d 7 p 6 n 8 9 a b c l e f 1 h i j 
+f g h i j k 1 p n o c l 3 d 4 5 2 7 8 m 6 b 9 a e 
+6 l c e 9 j a h i b k g m o 2 p 1 n f 4 5 7 d 8 3 
+Time 2.00544
+
+Game 6
+k m 3 4 5 6 1 8 7 p b c i e d g h a j o l 2 n 9 f 
+l 1 n o a 2 j 3 4 5 6 7 8 9 f b c d e p g h i k m 
+b h 7 j 8 o g n a i 1 l 5 4 2 6 m 9 f k p c d e 3 
+g c d e f b h k 9 l a m n o p 1 2 3 i 5 6 7 8 4 j 
+6 2 i 9 p m c d e f g h 3 j k l 8 4 7 n b 1 5 o a 
+2 3 4 5 6 7 b 9 f a c d e k n h i j 8 l m g o p 1 
+m g o p 1 l 2 5 3 6 7 8 9 b a c d e k f h i j n 4 
+h a j d i 1 n o p 8 2 3 6 5 g m 4 7 9 b c l e f k 
+c n e f l d i h k 4 m j o p 1 2 3 g 5 6 7 8 9 a b 
+7 8 9 k b c m e j g h i 4 f l p n o a 1 2 d 3 5 6 
+3 4 5 6 7 8 9 a b c d e f g h i j k l m n o p 1 2 
+n o p l 2 3 4 j 6 7 8 9 a 1 b d e f g c i m k h 5 
+i j k a m h o 1 5 2 3 4 p 6 c 8 9 n b 7 d e f g l 
+1 e f g h i k p l d o n j m 7 3 6 5 4 2 8 9 a b c 
+d 9 8 b c n e f g m i 2 k l 5 a o p 1 h 3 j 4 6 7 
+8 f 6 7 4 9 a b c 1 e k g 2 i j p l m d o 5 h 3 n 
+5 p 1 2 3 4 8 i d n 9 o b a 6 7 f c h e j k l m g 
+j k l m n p 7 6 2 3 4 5 d h 8 9 a b o g e f 1 c i 
+o i g h e j f l m k n p 1 c 3 4 5 6 2 8 9 a b 7 d 
+9 b a c d e 5 g h o j f l 7 m n k 1 3 i 4 p 6 2 8 
+e 5 b 8 9 a d c n h f g m i j o 1 2 6 3 k 4 7 l p 
+p 7 2 3 k 5 6 4 8 9 l a c d e f g h n j 1 b m i o 
+4 l m n o g p 2 1 e 5 6 7 8 9 k b i d a f 3 c j h 
+f 6 h i j k l m o b p 1 2 3 4 5 7 8 c 9 a n g d e 
+a d c 1 g f 3 7 i j k b h n o e l m p 4 5 6 2 8 9 
+Time 0.69083
+
+Game 7
+1 7 3 e g f l 8 9 a o c d b 5 p h i 6 k 2 m 4 j n 
+4 m n o p 1 2 3 6 5 8 l 7 j i b c d e f g h a 9 k 
+l h i j 5 k m n o p 1 2 6 4 3 8 7 9 a g b f d e c 
+b k d f c g h i j 7 a 9 n e p 1 m 2 4 5 6 l 8 o 3 
+6 2 8 9 a b c d e 4 g h f m k j l n 3 o i 1 p 7 5 
+7 g 4 k 6 3 8 9 2 b e o c 5 f a i h j l d n m p 1 
+m n p 1 3 7 f 4 5 6 h i g a b k d e 2 c 9 8 j l o 
+f i j h l m n o a k 2 3 p d 6 7 8 4 9 1 c b e 5 g 
+c d e a o h i j p l m n 8 9 1 6 3 g 5 b 7 4 k 2 f 
+2 8 9 5 b c d e 1 g 7 4 j k l m n o f p h 3 i a 6 
+3 c 5 p 7 8 9 a b f d e 4 g h i j 1 l m k o n 6 2 
+n o 2 6 1 d 4 7 k 3 9 b a f c e p 8 g h 5 j l i m 
+d j k l m n o p c 2 3 8 i 1 7 5 9 a b 6 4 e f g h 
+g e f 4 h i j 6 l m n p 5 o 2 3 k c d 7 8 9 1 b a 
+i 9 a b 8 5 e 1 g h l j k 6 m n 4 f o 2 3 7 c d p 
+8 6 g 7 4 9 a 5 h d i f 1 l o 2 e p m n j k 3 c b 
+e 5 1 2 k 4 3 g 7 8 6 a b c d o f j h i n p 9 m l 
+j p l m f o 6 c n 1 4 5 3 7 8 9 a b k d e 2 g h i 
+9 3 b n i 2 k l f j p m e h g c 5 6 1 8 o a 7 4 d 
+o a h c d e p b m i j k 9 2 n 4 g l 7 3 f 5 6 1 8 
+5 1 7 8 j 6 b f d e k g h i 9 l o m n a p c 2 3 4 
+k 4 6 3 2 a 1 h 8 9 c d l p e f b 5 i j m g o n 7 
+h l m g 9 p 7 2 3 n 5 6 o 8 4 d 1 k c e a i b f j 
+p f c i n j 5 m 4 o b 1 2 3 a g 6 7 8 9 l d h k e 
+a b o d e l g k i c f 7 m n j h 2 3 p 4 1 6 5 8 9 
+Time 0.492365
+
+Game 8
+l 2 i 3 5 c 1 7 9 a b f d e p 4 h 8 j k 6 m n o g 
+g m n o p 6 2 3 4 5 h 7 8 9 a b c d e f 1 j i l k 
+c h 8 j k l g n m p 1 2 3 6 5 o 7 i 9 a b d e 4 f 
+b f 1 e 4 d h i j k l c n o m g 2 3 6 5 7 p 8 9 a 
+6 7 d 9 a 8 b o e f g 4 i j k l m n 1 p c 2 3 h 5 
+j 3 g 5 6 7 8 9 a b c d f 4 h i e k 2 l m n o p 1 
+m n p l 1 2 3 4 5 6 8 e 7 a 9 c d o f g h i j k b 
+h i a k d m n j p 1 2 6 o 5 g 7 8 9 3 b e c 4 f l 
+7 b e f 2 i c k o l m 3 j p 1 h n 4 5 6 g 8 9 a d 
+4 8 9 c o g d h f e n i b k l m j a p 1 2 3 5 6 7 
+3 4 5 n 7 p 9 c k 8 d h a g b 6 i e l m j o f 1 2 
+p o k 1 g 3 4 5 h 2 6 m e c 8 d 9 f a j i 7 l b n 
+i j 2 a m n o l 6 7 3 9 5 1 f 8 4 p b c d e k g h 
+d e l 6 h b j f i m 4 o p n 2 1 3 g k 7 8 9 a 5 c 
+8 9 f b c 1 e a g d i j k l 7 n o 5 h 2 3 4 p m 6 
+1 p 6 7 f 9 a m c g e 8 4 h i j k b o n l 5 d 2 3 
+o c 3 2 b 4 5 6 7 h 9 a g f d e p l m i n k 1 j 8 
+n k m h l e p 8 2 3 j 5 6 b c 9 a 1 4 d o f g 7 i 
+e a 4 g i j k d l n o p 1 2 3 f 5 6 7 8 9 h b c m 
+9 5 j d 8 o f b 1 i 7 k l m n 2 g h c 3 4 a 6 e p 
+5 6 b 8 9 a 7 e d c f n h i j k l m g o p 1 2 3 4 
+2 1 7 4 3 5 6 g 8 9 a b c d e p f j i h k l m n o 
+k l o p n h m 2 3 4 5 1 9 8 6 a b c d e f g 7 i j 
+f g h m j k i 1 n o p l 2 3 4 5 6 7 8 9 a b c d e 
+a d c i e f l p b j k g m 7 o 3 1 2 n 4 5 6 h 8 9 
+Time 0.469014
+
+Game 9
+p 2 c o 5 6 7 8 9 a b d i e f 4 h 3 j k l m n g 1 
+l n 1 f b i 2 5 4 3 m 7 8 9 a g c d e 6 p h o j k 
+g i j h 9 p m n o 1 6 2 3 4 k l 7 8 5 a b c d e f 
+4 m d e 3 j f h g k l c n o p 1 b 2 9 i 6 7 8 a 5 
+6 7 8 k a b e d c l g h 5 j 1 f m n o p i 2 3 4 9 
+2 5 4 d k 7 8 9 i b c n e f j h 3 o a l m g 1 p 6 
+m f o p 1 l 3 c 5 6 7 8 9 a b 2 d 4 i g e n j k h 
+e h l j g m n o a p 1 3 4 5 6 7 8 9 k b 2 d i f c 
+7 3 6 i n h 4 j k f d g o p 2 c 5 e m 1 a 8 9 b l 
+b 8 9 a c 1 d e 2 g h i m k l 6 n j p f 3 o 4 5 7 
+3 c 5 6 4 8 9 a b d 2 e f g h i j k l m n 1 7 o p 
+n o p 1 2 4 i 3 6 7 8 9 a b 5 d e f g h c j k l m 
+i j k l m n o p 1 5 3 4 d 6 7 8 9 a b c g e f h 2 
+d e f g h 2 j k l m n o p 1 c 3 4 5 6 7 8 i a 9 b 
+8 9 a b 7 g c f h e i j k l m n o p 1 2 d 4 5 6 3 
+1 d e 7 6 5 a b m c 9 f g h i j k l 4 n o 3 p 2 8 
+o p 3 2 f 9 1 6 7 8 4 a b c d e i g h 5 j k l m n 
+j k n m l o p 4 3 2 e 5 6 7 8 9 a b c d h f g 1 i 
+h 4 g 5 i e k l j n o p 1 2 3 m f 6 7 8 9 a b c d 
+9 a b c 8 f h g d i j k l m n o p 1 2 3 4 5 6 7 e 
+c 6 7 9 d a b 2 e j f 1 h 8 g k l i n o 5 p m 3 4 
+5 1 2 3 p d 6 7 8 9 a m c i 4 b g h f j k l e n o 
+k l m 8 o 3 g 1 p 4 5 6 7 n 9 a 2 c d e f b h i j 
+f g h 4 j k l i n o p b 2 3 e 5 1 m 8 9 7 6 c d a 
+a b i n e c 5 m f h k l j d o p 6 7 3 4 1 9 2 8 g 
+Time 0.301641
+
+Game 10
+1 f 3 2 5 6 7 p 9 k b c e 4 a d h 8 j i l o n m g 
+c m l o n b 3 2 4 j d 7 8 9 g 6 a 5 e f 1 h i p k 
+9 h 4 i k l a n o 8 1 3 m 6 5 b 7 g 2 p e c d j f 
+b p d e j i h 5 m g l 2 n o f 1 k 3 4 c 6 7 8 9 a 
+6 7 8 g a 1 c e d f i p h j k l m 9 n o b 2 3 4 5 
+g e h 5 6 7 8 3 a p c d l 2 b 9 i j k 4 m n f o 1 
+m 3 c 9 p 2 4 h 5 6 7 8 1 a o f d n b g i j e k l 
+k 2 j 4 l 9 m o i 1 3 n f 5 6 e 8 7 a h g d c b p 
+i d 1 f o c n j k b m e g p 4 2 3 l 5 6 7 8 9 a h 
+7 8 n a b g e d f l h i j k 9 m c o p 1 2 3 4 5 6 
+5 4 e 6 g o 9 a b 3 8 h k c 7 i j d l m n f p 1 2 
+l o 7 1 2 8 i 4 p h 6 9 a d n c e f g 5 k b j 3 m 
+3 i k j m n l 6 1 c 2 4 5 f p 8 9 a h b d e o g 7 
+d n f p h 5 j k g m e o b 1 i 3 2 4 6 7 8 9 a l c 
+8 9 a b c d 2 f e 7 g j 3 l m n o p 1 k h i 5 6 4 
+4 5 p d 8 j o b 7 i f l 6 h 1 k g e 9 a 3 m 2 c n 
+o 6 9 7 3 4 p 8 c a n 5 i g d h f 1 m 2 j k l e b 
+e k 2 m f 3 d 1 6 5 4 a 9 7 8 j n b c l o p g h i 
+j c g h i m k l 2 n o b p e 3 4 5 6 7 8 9 a 1 f d 
+n a b l 1 e f g h 9 j k c m 2 o p i d 3 4 5 6 7 8 
+h 1 6 8 9 a 5 c n e k g o i j 7 4 m f d p l b 2 3 
+p j 5 3 4 k 6 7 8 2 a f d b e g l h i 9 c 1 m n o 
+2 l m n d p 1 9 3 4 5 6 7 8 c a b k o e f g h i j 
+f g i k e h b m j o p 1 2 3 l 5 6 c 8 n a 4 7 d 9 
+a b o c 7 f g i l d 9 m 4 n h p 1 2 3 j 5 6 k 8 e 
+Time 1.43217
+
+Game 11
+1 l 3 4 9 6 7 8 m 5 g c d n f e 2 i j k b o h p a 
+5 2 d o p 1 b 3 4 a 6 7 8 9 e l c n h f m j i g k 
+g h i j k l 2 n o p 1 b 3 4 5 9 7 8 m a 6 c d e f 
+b c 8 6 e f h i j k o 2 a m p 1 d g 4 5 l 7 3 9 n 
+a f n m 7 9 c d g e l h i j k b 3 p o 6 1 2 8 4 5 
+k 6 o 5 4 7 8 9 a b 2 d e f c h i 3 g l p n m 1 j 
+m n e p 1 h 3 4 2 6 5 8 9 a g c k j f b 7 i l d o 
+l i j 7 2 m n o p 1 b 3 4 k 6 5 8 9 a d c h e f g 
+c d h f g 5 i j k l 7 n m p o 2 6 4 e 1 3 8 9 a b 
+3 8 9 a b c d e f g h 1 l i j m n o p 7 2 5 4 k 6 
+7 4 5 h 6 o 9 a b c d e f g 8 i m k l p n 3 j 2 1 
+8 o a 1 j g 4 5 6 3 c k n b h 7 e f 9 2 i d p l m 
+i 3 k l m n 1 p d 2 4 9 5 6 7 8 j a b c g e f o h 
+d e f g n i j k l 7 m o p 1 2 3 4 5 6 h 8 9 a b c 
+2 9 p b c 8 m f e h i a j l 3 n o d 1 g k 4 5 6 7 
+4 5 6 8 i 2 a b c m e f g 7 d j 9 l k n o p 1 h 3 
+p 7 1 n 3 4 o 6 h 8 9 l b c a d f e 5 i j k g m 2 
+j k l 2 h 3 p 1 9 d 8 5 6 o 4 g a b c m e f n 7 i 
+o m g e f j k l 5 n 3 p 1 2 i 4 h 6 7 8 9 a b c d 
+9 a b c d e f g 7 i j m k h n o p 1 2 3 4 l 6 5 8 
+6 p 7 9 8 d e c i j f g h 5 b k l m n o a 1 2 3 4 
+e 1 2 i l k 6 7 8 9 a 4 c d m f g h 3 j 5 b o n p 
+h j m 3 o p 5 2 1 4 n 6 7 8 9 a b c d e f g k i l 
+f g 4 k a b l h n o p i 2 3 1 6 5 7 8 9 d m c j e 
+n b c d 5 a g m 3 f k j o e l p 1 2 i 4 h 6 7 8 9 
+Time 1.85222
+
+Game 12
+b 2 1 a k 6 m 8 9 5 4 c i e d 7 h f j g l n 3 o p 
+5 m n o e l 7 3 4 1 2 a 8 9 f b c d p 6 g h i j k 
+g h i j 4 k c n o p 1 3 6 7 5 l 2 8 9 a d m e b f 
+l 3 d 8 f g 2 e j h b m n o p 1 i 5 4 k 6 7 c 9 a 
+6 7 c 9 p b i d a f g h l j k 3 m n o e 1 2 8 4 5 
+k 4 h 6 5 3 8 j p b c 7 d a g 2 n 9 f l m i o e 1 
+m n o p 8 2 a 1 5 g i f 9 6 b c d e 7 4 h 3 j k l 
+1 i j 3 l m 9 7 e o k 2 4 5 h 6 8 b a p c d g f n 
+d c f 2 g h l 4 k 6 e n o p 1 5 3 j i m 7 8 9 a b 
+7 a 9 e b c d i f n m 8 j l 3 g k o h 1 2 p 4 5 6 
+3 9 5 m 7 8 e a b c d 4 f g 6 i j k l h n o p 1 2 
+2 o p f n 1 4 5 6 7 8 9 a h c d e 3 g b i j k l m 
+i j 4 l d n o p 2 m 3 k 5 1 7 8 9 a 6 c b e f g h 
+h e 6 g 1 i j k l 3 n o p b 2 m f 4 5 7 8 9 a d c 
+a 8 k b c d h f g 9 l j e i m n o p 1 2 3 4 5 6 7 
+4 5 8 7 6 9 f b c d h e g k i j p l m n o a 1 2 3 
+o p 3 1 2 a 5 6 7 8 9 d b c l e g h k i j f n m 4 
+j k l n a 4 p o 1 2 f 5 3 m 8 9 7 c b d e g 6 h i 
+e f g h i j n l m k o p 1 2 a 4 5 6 3 8 9 c b 7 d 
+9 d b c m e 3 g h i j 6 7 4 n o a 1 2 f k 5 l p 8 
+8 6 a 4 9 5 b c d e 7 i h f j k l m n o p 1 2 3 g 
+p 1 2 i h 7 6 9 8 j a b k d e f 4 g c 3 5 l m n o 
+n l m d o p 1 2 3 4 6 g c 8 9 a b 7 e 5 f k h i j 
+f g 7 5 j o k m n l p 1 2 3 4 h 6 i 8 9 a b d c e 
+c b e k 3 f g h i a 5 l m n o p 1 2 d j 4 6 7 8 9 
+Time 3.94229
+
+Game 13
+1 2 8 4 3 6 f 5 m 7 b c d e j g h i a k l 9 p o n 
+l m n k p b o 3 4 1 g 7 8 9 a 5 c d e f 6 2 i j h 
+b h g j o l a n c p 1 6 i 3 5 8 7 9 m 2 4 k d e f 
+9 c d 5 e g h i j k 2 n f o p 1 l 3 4 6 b 7 8 a m 
+6 7 f i a 8 2 d e 9 l h m 4 k b n j o p 1 c g 3 5 
+2 3 4 f j 7 8 m a 5 c d 9 l g h i 6 k b o n e p 1 
+m n 9 p 1 o 3 4 6 b k 8 7 a 2 c d e f l h i j 5 g 
+o i b h l j n 9 p e f 3 4 5 1 7 2 8 g a c d m 6 k 
+c k 7 d g h i 1 2 l m e o p 6 j 3 4 5 n a 8 9 f b 
+5 8 e a 6 c d k f g h i j n b 9 m o p 1 2 3 4 7 l 
+3 4 o 6 f e 9 7 b c d a p g h i 8 k l j 5 m n 1 2 
+n 9 i 7 2 3 4 a 5 h 8 m k b c d e f 1 g j p o l 6 
+e j k l m n 1 p i o 7 4 5 6 f 2 9 a b c d h 3 g 8 
+d g p 1 h 2 k l 8 m n 9 e j o 3 4 7 6 5 i f a b c 
+8 a 5 b c d j f g 6 i 2 3 1 l n o p h m e 4 k 9 7 
+4 5 6 g 8 9 c b d j o f a h i m k l 7 3 n e 1 2 p 
+a p l 2 d 4 5 6 7 n 9 1 b c 3 e j g 8 h k o f m i 
+i o 1 m n f p e k 3 4 5 g 2 8 6 a b c d 7 j l h 9 
+7 f j 9 k 1 l 8 h i e p 6 d m 4 5 n 2 o g a b c 3 
+h e 3 c b a m g o 2 j k l 7 n f p 1 9 i 8 5 6 d 4 
+g 6 a o 9 5 b c l 8 3 j h i e k f m n 7 p 1 2 4 d 
+p 1 2 3 4 m e j n d 6 b c f 7 o g h i 8 9 l 5 k a 
+k l m n 7 p 6 2 3 4 5 o 1 8 9 a b c d e f g h i j 
+f d h 8 i k 7 o 1 a p g 2 m 4 l 6 5 j 9 3 b c n e 
+j b c e 5 i g h 9 f a l n k d p 1 2 3 4 m 6 7 8 o 
+Time 2.56238
+
+Game 14
+1 2 3 p 4 6 7 8 9 m b a d e f g h i j k n l c o 5 
+l m j o n b f 3 4 5 g 2 8 9 7 6 c d e a 1 h i p k 
+g h i 6 k l 2 n a p 1 c 3 4 5 8 7 9 o f b m d e j 
+b c d e f g j i h k l m n o p 1 2 3 4 5 6 7 8 9 a 
+8 a 7 9 5 o c d e 1 6 h i j k l m n b p g 2 3 4 f 
+2 6 4 5 3 e 8 a p b c d 9 f g 7 i j k l m n o h 1 
+m e o j h 2 3 4 5 6 7 n b a 1 c d 8 f g l i 9 k p 
+k i 1 l p h n o j 7 2 3 6 5 8 m 4 a 9 b c d e f g 
+c d n f g 1 i 9 k l m e o p 4 2 3 h 5 6 7 8 j a b 
+7 8 9 a b d m c f g h i j k l e n o p 1 2 6 4 5 3 
+3 4 f 7 6 8 h 5 b a d o p g c i j k l m e 9 n 1 2 
+n o p 1 l c 4 j 6 e 5 9 a b 2 d 8 f g h i 3 k 7 m 
+i b k h m 7 o p 1 2 8 j 4 6 3 n 9 5 c e d a f g l 
+d j 5 g 2 m 9 k l i n f e 1 h 3 6 4 a 7 8 o p b c 
+e 9 a 8 c n d f g 3 i 7 k l m b o p 1 2 h 4 5 j 6 
+4 5 6 k 7 9 a b c o e 8 g h i j f l m d 3 p 1 2 n 
+o 3 e 2 8 4 5 1 7 f 9 6 l c d p a g n i j k b m h 
+j p l m a 3 e 6 d h 4 5 1 2 n 9 k b 7 c o f g 8 i 
+h f g i 1 j k l m n o p 7 3 b 4 5 6 2 8 9 e a c d 
+9 n b c d i p g 2 8 j k f m a o e 1 h 3 4 5 6 l 7 
+5 k c 4 9 a b e o d f g 2 i j h l 7 6 n p 1 m 3 8 
+a 1 2 3 j 5 6 7 8 9 p b h d e f g m i o k c l n 4 
+6 7 m n o p 1 2 3 j k l 5 8 9 a b c d 4 f g h i e 
+f g h b i k l m n 4 3 1 c 7 6 5 p e 8 9 a j 2 d o 
+p l 8 d e f g h i c a 4 m n o k 1 2 3 j 5 b 7 6 9 
+Time 2.26996
+
+Game 15
+1 7 f e 5 n 2 6 9 a b c g d 8 4 h i j k l m 3 o p 
+l m i o p c 1 3 4 8 6 7 5 2 a 9 e d b f g h n j k 
+g h n j k l m 5 o p 1 3 9 4 e 6 7 c 8 a f i d b 2 
+b c 4 a d g h i j k m f n o p 1 2 3 l 5 6 7 8 9 e 
+6 2 3 9 8 b 7 d e f k h i j l g m n o p 1 c a 4 5 
+p 3 2 5 6 7 i 9 8 b l d e f g h c j a m 4 n o k 1 
+9 n o m 1 2 3 4 5 6 7 8 c a b k d e f g h j i p l 
+h i j k a 1 n o p e 3 2 4 5 6 b 8 9 7 l c d m f g 
+7 d g f b h c j k l n 1 m p o 2 3 4 5 i e 8 9 a 6 
+c 8 l 4 e m d f a g h i j 9 k o n 6 p 1 2 3 7 5 b 
+3 4 5 6 c 8 9 a b 2 o e f g h i j 7 k d n l p 1 m 
+d o 1 p 2 3 j c 6 7 8 n a b m l 4 f g h 5 9 k e i 
+i j k l m p o n 1 5 d 4 3 6 7 8 9 a e c b f 2 g h 
+n e a g h i f k l 4 c 9 p 1 2 m b 5 6 3 8 o j d 7 
+f b 9 8 7 d e h g m i j k l 5 n o p 1 2 3 a 4 6 c 
+4 f 6 1 g 9 a b c j e 5 8 7 i d k l m n o p h 2 3 
+o p 8 2 3 4 5 m 7 i 9 a b c d e f g h 6 j k 1 l n 
+5 9 d n l o k 1 2 3 4 p 6 h j 7 a b c 8 i e g m f 
+e k h 7 i 6 l 8 f n 2 g 1 m 3 p 5 o 9 j d 4 b c a 
+m a b c j e p g h d f o l k n 3 i 1 2 4 9 5 6 7 8 
+2 6 7 i 9 a b e d c g m h 8 f j l k n o p 1 5 3 4 
+j 1 p 3 4 5 6 7 m 9 a l d n c f g 8 i b k 2 e h o 
+8 l m b o k 4 2 3 1 5 6 7 i 9 c p h d e a g f n j 
+a g e h f j 8 l n o p k 2 3 1 5 6 m 4 9 7 b c i d 
+k 5 c d n f g p i h j b o e 4 a 1 2 3 7 m 6 l 8 9 
+Time 1.5054
+
+Game 16
+1 2 3 d 5 6 4 l a k b 7 8 e f h 9 m j i c g n o p 
+n m 4 o p 1 2 5 3 7 9 a g 6 c k b d e f l h i j 8 
+l h g j k n m i 9 c p d 3 4 5 o 7 8 6 a b 2 1 e f 
+b i c e f g h 8 j p k m n o l 5 2 3 4 1 6 7 d 9 a 
+6 7 8 9 a b d o e f i h 2 j 1 l g n c p 5 m 3 4 k 
+h 3 a 5 6 l 8 d o b c 1 e f g 2 i j k 7 m n 9 p 4 
+m n o p 1 2 3 4 5 6 7 8 a 9 b c d e f h g i j k l 
+i 4 j k g 7 n h p 1 2 3 l 5 6 m 8 9 a b o d e f c 
+c d e l 2 f 9 j k i h n o p m g 3 4 5 6 7 8 b a 1 
+7 8 9 f b c a e m g d i j k 4 1 n o p l h 3 2 5 6 
+3 g 5 6 7 9 c a b 4 8 e f h d i j k l m n o p 1 2 
+4 o i 1 c 3 7 n 6 l j 9 5 b 2 d p f h e 8 a k g m 
+2 j k a l m o p 1 5 n 4 i g 7 8 c 6 9 3 d e f b h 
+d e f m h i j k 2 8 a 6 p 1 o n 4 5 b g 3 9 c l 7 
+8 9 p b n d e f g h m c k l 3 a o 7 1 2 4 j 5 6 i 
+g 5 n 7 8 4 6 b c d e f 9 i k j h l m o 1 p a 2 3 
+o p 1 4 d a f 9 7 2 3 5 b c h e 6 i g 8 j k l m n 
+j k l h m o 5 1 i 3 4 2 6 7 8 9 a p n d e f g c b 
+e f 6 2 i j k m l n o g 1 a p 3 5 b 7 c 9 4 8 h d 
+9 a b c 3 8 p g h e l j d m n 4 f 1 2 k i 6 o 7 5 
+5 l 7 8 9 e i c d m f k h 2 j 6 1 a o n p b 4 3 g 
+p 1 2 3 4 5 g 7 8 9 6 b c d a f e h i j k l m n o 
+k 6 m n e p 1 3 4 a g o 7 8 9 b l 2 d 5 f c h i j 
+f b h g j k l 2 n o 1 p 4 3 i 7 m c 8 9 a 5 6 d e 
+a c d i o h b 6 f j 5 l m n e p k g 3 4 2 1 7 8 9 
+Time 1.74833
+
+Game 17
+1 6 3 4 5 c 7 8 9 o b m d l p a h e g k f 2 n j i 
+n m i h p 1 2 3 4 j 6 o a 9 e 7 c d b f g 8 l 5 k 
+g 7 j k a l 6 n e p 1 2 f c 5 9 i 8 4 m b 3 h o d 
+b c d e f m h i g k 3 4 8 n j 5 2 l o 1 6 7 a 9 p 
+l o 8 9 2 d b a f 5 7 h i g k 6 n 3 j p 1 c e 4 m 
+2 3 4 i 6 b 8 j a f c d e h n m 7 9 k l 5 g o p 1 
+7 n p o 1 2 d 4 5 6 g 3 9 b l c e j f 8 h i m k a 
+h k e j l o m 9 p 1 2 7 4 5 6 g d i a b c n 3 f 8 
+c d m f g 3 i k h l a 8 o p 1 2 4 n 5 6 7 9 j e b 
+5 8 9 a b n c e 7 g m i j k f h 1 o p 3 2 l 4 d 6 
+f 4 5 6 7 8 9 m l c d 1 3 a h b j k i e n o p g 2 
+d p o 1 i a 3 5 6 7 8 c b 4 2 n m f h g e j k l 9 
+3 j k l m g o p 1 2 e n 5 6 7 8 9 4 c a d b f i h 
+e 2 n g h i j d k b f 9 p o m 3 l 5 6 7 4 1 8 a c 
+8 9 a b c h e f n 4 i l k j g d o p 1 2 3 m 5 6 7 
+4 5 6 7 8 e k b c i h f g m d l 3 a 9 n j p 1 2 o 
+o h 1 p 3 7 5 6 j d 9 a n 8 c e f g 2 i l k b m 4 
+j a l m n 9 p 1 2 3 4 5 6 7 i o k b d c 8 f g h e 
+i f g 2 k 4 n l m h o p 1 e b j 8 6 7 5 9 a d c 3 
+9 e b c d f a g o 8 j k l 2 3 4 p 1 m h i 5 6 7 n 
+6 b 7 8 9 j 1 c d e l g h i a k 5 m n o p 4 2 3 f 
+p g 2 3 4 6 f 7 8 m k b c d 9 1 a h l j o e i n 5 
+k l f n o p 4 2 3 a 5 6 7 1 8 i g c e d m h 9 b j 
+m i h 5 j k l o b n p e 2 3 4 f 6 7 8 9 a d c 1 g 
+a 1 c d e 5 g h i 9 n j m f o p b 2 3 4 k 6 7 8 l 
+Time 3.28878
+
+Game 18
+1 g 4 2 5 e 7 3 9 a i c d 6 f k h b j 8 l m n o p 
+l j 3 o p 1 m 5 6 2 b 7 8 9 a c n d e f g h i k 4 
+f h i m k l n 8 o p 1 2 3 5 4 6 7 g 9 a b c d e j 
+b e a c d g h 4 j k l m n o p i 2 3 1 5 6 7 8 9 f 
+6 7 n 9 8 b c d f i g e h j k l m 4 o p 5 2 3 1 a 
+2 8 6 4 3 7 9 c a b f d e k g h 1 i p l m n j 5 o 
+p m o k 1 d 3 n g 6 c 5 7 a b e 4 8 f j h i 9 2 l 
+h i l 5 a m 2 o p 1 j n 4 8 6 7 k 9 d b c 3 g f e 
+c d e f g h i j k l m o 9 p 1 2 3 n 5 6 7 8 a 4 b 
+7 n 9 j b 4 8 e 5 f 3 i 2 h l m c o a g k 6 1 p d 
+3 4 5 6 c a e k b 7 d h f g 9 8 j 1 i m n o p l 2 
+n o p a 2 8 g 9 1 4 7 3 5 b c d e f l h i j k m 6 
+i 1 j l 7 n o p 2 5 4 8 6 e m b 9 a k c 3 g f d h 
+d k f g h i j 6 l m n a o 1 2 3 p 5 4 7 8 9 e b c 
+8 9 m b e 3 d f c h p j k l i n o 6 g 2 1 4 5 a 7 
+9 5 c 7 l 6 b a h d e 4 g f n j i k m 1 2 p o 8 3 
+m 6 1 e o 2 5 i 7 8 9 b a c d 4 f p h 3 j k l g n 
+k 2 g d n o p 1 m 3 6 l j 7 8 9 a c b e f 5 4 h i 
+4 f 8 h i j k l e n o p 1 2 3 g 5 7 6 d 9 a b c m 
+a 3 b p j 9 f g 4 c 5 k i m h o 8 l 2 n e d 6 7 1 
+5 b 7 8 9 c 4 h d e k f l i j a 6 m n o p 1 2 3 g 
+j p 2 3 4 5 6 7 8 9 a 1 b d e f g h c i o l m n k 
+g l d n m p 1 2 3 j 8 6 c 4 o 5 b e 7 k a f h i 9 
+e a h i f k l m n o 2 g p 3 7 1 d j 8 9 4 b c 6 5 
+o c k 1 6 f a b i g h 9 m n 5 p l 2 3 4 d e 7 j 8 
+Time 1.77653
+
+Game 19
+1 2 3 i 4 6 e 8 9 7 5 f c d p g h n j a l m k o b 
+l m n o p k a 3 4 5 6 7 8 9 g b c d e f 1 2 i j h 
+g h j 9 k l b m n p 1 2 3 4 a 6 7 i o 5 8 c d e f 
+b e d a f g c i j h l m n o k 8 2 1 4 9 6 7 3 p 5 
+6 7 c 8 5 d 1 2 o f b h i j e l k 3 m p g a n 4 9 
+2 3 4 5 6 7 8 e a b c d g m f h i j k l n o p 9 1 
+c n o p 1 3 2 k 5 6 7 8 9 a b 4 d e f g h i j m l 
+h a i k l m 4 o p 1 2 3 j 5 6 7 n 8 9 c b d e f g 
+e d m f g 9 j c i l h n o p 1 2 3 6 5 b 7 8 4 a k 
+7 8 9 j b h n d f g e i 4 k l a m o p 1 2 3 c 5 6 
+3 o 5 e 7 i 9 a b 2 d 4 6 g h c 1 m l 8 j n f k p 
+n j p 1 2 5 h 4 3 k 8 9 a b c d e f g 7 i 6 o l m 
+i 4 k l m n o p g c 3 e 5 f 7 9 j a b 6 d h 1 8 2 
+d 6 f g h 8 7 j l m n o p 1 2 3 4 5 i k e 9 a b c 
+8 9 a b c f 6 1 e d i j k l m n o p 2 h 3 4 5 g 7 
+4 5 6 7 8 c d b 2 a m k f e i j l 9 1 n o p g h 3 
+o f e 2 3 4 5 6 7 8 9 a b c d m p g h i k j l 1 n 
+j k l m n o p 9 1 3 4 g 7 h 8 e 5 b c d a f 6 2 i 
+a p g h i j k l m n o 5 1 6 3 f 8 4 7 2 9 e b c d 
+9 1 b c d e f g h i j p l 2 n o 6 k a 3 m 5 8 7 4 
+5 i 1 6 9 a m f d e g c h 7 j p b l n o 4 k 2 3 8 
+p c 2 4 o 1 i 7 8 9 a b d 3 5 k g h 6 j f l m n e 
+m l 7 n j b 3 5 k 4 f 6 2 8 9 1 a c d e p g h i o 
+k g h 3 a 2 l n 6 o p 1 e i 4 5 f 7 8 m c b 9 d j 
+f b 8 d e p g h c j k l m n o i 9 2 3 4 5 1 7 6 a 
+Time 0.418269
+
+Game 20
+1 2 3 4 a 7 m b 9 i k c d e f g h o 6 j l 5 n 8 p 
+l m n o p 1 2 3 5 d 6 7 8 9 4 b c a e f i h k j g 
+g h j c k l 6 n o 4 1 2 3 p a i 5 8 9 7 b m d e f 
+d 7 i e f g h 8 j k b m n o 5 1 l 3 4 p 6 c 2 9 a 
+b 6 5 9 8 p c a e f g h i j l n m 2 d k 1 4 3 7 o 
+2 3 a 5 4 h b 9 8 1 c d e f 6 m i j k l g 7 o p n 
+m n o p 1 j 3 4 2 6 7 8 9 a b c d e f g h i 5 k l 
+j i d k l n 7 m g o 2 3 h 5 p 4 8 9 a b c 6 e f 1 
+e c 6 f g a i p k l m n o 4 1 h 3 7 2 5 j 8 9 d b 
+7 9 8 h b c d e f 5 i l j k g 6 o n p 1 2 3 4 a m 
+3 4 m 6 7 8 9 h b c d e f g i l n k 5 a o j p 1 2 
+8 k p 1 2 3 4 7 m e h 9 a 6 c d j f o i n b g l 5 
+n d 9 j 5 i o g 1 a 3 4 k l 7 8 2 p b c m e f 6 h 
+i e f g h 6 l 5 d j n o p b 2 7 9 4 1 m 8 k a c 3 
+o a l b c k n f p 2 8 j 5 1 m 3 e 6 g h d 9 i 4 7 
+h j e 7 o 9 a 6 i b 4 f g c 8 2 k l m n 3 p 1 5 d 
+c p 1 2 3 5 j o 4 8 9 a b h d e f g i 6 7 n l m k 
+4 8 g m n 2 p 1 l 3 o 5 6 7 k 9 a b c d e f j h i 
+6 f k l i m g d h n e p 1 2 3 j 4 5 7 8 9 a b o c 
+9 5 b a d e f k c 7 j i l m n o p 1 h 3 4 2 8 g 6 
+5 l 2 8 9 d e c a h f g 7 i j k b m n o p 1 6 3 4 
+p 1 h 3 6 o 5 i 7 9 a b 4 d e f g c j 2 k l m n 8 
+k o 4 n m b 1 2 3 p 5 6 c 8 9 a 7 d l e f g h i j 
+f g 7 i j 4 k l n m p 1 2 3 o 5 6 h 8 9 a d c b e 
+a b c d e f 8 j 6 g l k m n h p 1 i 3 4 5 o 7 2 9 
+Time 0.501184
+
+Game 21
+e 2 3 4 5 j 6 8 9 a d c 1 p o b k i h g l m 7 n f 
+l f j 7 p 1 2 3 o 5 4 m 8 g a e c d 9 n k h i 6 b 
+g h i o k 4 f n m p b 2 3 e l 6 7 8 5 a 1 c d 9 j 
+b c d m 1 l 7 i g k 6 9 n h 5 f 2 3 4 j e p 8 o a 
+8 6 a 9 n b c h e d f 7 i j k 1 m l o p 2 5 3 4 g 
+h 3 1 5 6 7 l 9 a b o d e f g 4 i j c 8 m 2 n k p 
+m n b p 4 2 3 6 k e c 8 a 9 1 7 d o f 5 h i g j l 
+j i e k l m n o p 1 2 3 4 7 6 9 h g a b d 8 f c 5 
+c d o f g h 8 j 5 4 m i p l n 2 3 e k 6 7 b 9 a 1 
+7 8 9 a 2 c d f i g h j 5 k b m l n p 1 o 3 4 e 6 
+3 4 c 6 7 8 9 k d f i e b 5 h l j a g m n o p 1 2 
+2 o 5 1 j 3 b e 6 c 8 g 9 a p d 4 f n h i 7 k l m 
+i m k l a n o 5 1 2 3 4 f 6 c 8 9 p b 7 j d e g h 
+p e f g h i j 4 l m 7 n d 1 2 3 o 5 6 k 8 9 a b c 
+n 9 8 b d g p a 7 h l k j o m c e 1 i 2 6 4 5 f 3 
+4 5 6 h 8 d k p c 7 e f g b i j n 9 m l 3 a 1 2 o 
+o 7 p 2 3 6 5 b j 8 9 a h c d i f 4 1 e g k l m n 
+9 k l e m f a 1 2 3 n o 6 4 8 g 5 b 7 d p j c h i 
+d j g i f o m l 4 n 1 p k 2 3 h a 6 8 c 9 e b 5 7 
+1 a n c b 9 e g h i j 5 l m 7 o p k 2 3 4 f 6 8 d 
+5 p 7 d 9 a h c n 6 g l o i j k 8 m e f b 1 2 3 4 
+6 1 2 3 i k 4 7 f 9 a b c d e n g h j o 5 l m p 8 
+k l m n o p 1 2 3 j 5 6 7 8 9 a b c d 4 f g h i e 
+f g h 8 c e i m b o p 1 2 3 4 5 6 7 l 9 a n j d k 
+a b 4 j e 5 g d 8 l k h m n f p 1 2 3 i c 6 o 7 9 
+Time 0.680024
+
+Game 22
+1 g 8 4 5 p 7 h 9 d b c n e f m 2 3 j k 6 o i l a 
+l 9 2 m p 4 i 3 5 1 6 7 8 d a b c f e o g h n j k 
+b h i j k g m o l 6 1 2 3 4 5 n 7 8 9 a c p d e f 
+6 c d f n e a 8 j k l m h o p 1 4 g 5 i b 7 3 9 2 
+e 7 o 3 a b c n 2 f g i j 9 k l d h 6 p 1 m 8 4 5 
+2 3 4 5 6 7 8 9 a b c n e f g h i j k l m d o 1 p 
+a n m p 1 5 2 4 e g 7 3 9 6 b c 8 d o f h i j k l 
+h d l k o 6 p i 3 j 2 8 4 5 1 7 m 9 a b n c e f g 
+c i e g f h n 1 k l m d o p j 5 3 6 4 2 7 8 9 a b 
+7 8 j 9 b c d m f o i h a k l g n 1 p e 2 3 4 5 6 
+n 4 5 6 7 l 9 a b c 8 e d g h i f k 2 m o j p 3 1 
+o a p 1 g 8 3 5 6 7 f 9 l b c j e 4 d h i 2 k n m 
+3 j k l i n o p 1 2 a 4 5 m 7 6 9 c b 8 d e f g h 
+d 2 f e h i j k 4 m n o p 1 6 3 g 5 l 7 8 9 a b c 
+8 m 9 b c d e f g h 3 j k i 2 a o p n 1 l 4 5 6 7 
+m 5 6 o l 9 4 b c n e f g h d 8 p i 7 j k a 1 2 3 
+4 p 1 h 3 f 5 6 7 8 9 a i c n 2 k e g d j b l m o 
+j k b n 2 1 l d o 3 4 p 6 7 8 9 a m c 5 e f g h i 
+i f g 7 8 j k e m a o 5 1 2 3 4 b l h 6 9 n c p d 
+9 e a c d 2 h g p i j k b l m o 1 n f 3 4 5 6 7 8 
+5 6 7 8 9 m b l d e h g f a i k j o 3 n p 1 2 c 4 
+p 1 h 2 4 3 6 7 8 9 d b c j e f l a i g 5 k m o n 
+k l 3 a j o 1 2 n 4 p 6 7 8 9 d 5 b m c f g h i e 
+g o n i m k f c h p 5 1 2 3 4 e 6 7 8 9 a l b d j 
+f b c d e a g j i 5 k l m n o p h 2 1 4 3 6 7 8 9 
+Time 0.424428
+
+Game 23
+1 2 3 f 5 6 7 o 4 a p c 8 e h d b i k 9 l m n j g 
+4 p n o l 1 5 3 j i 6 7 a 9 m g c 2 e f b h 8 d k 
+g h i j k b 2 n p l 1 d 3 4 5 6 7 8 m a o c e 9 f 
+b c 9 e d g h 8 m k f 2 n o l 1 4 3 j 5 6 7 i p a 
+6 7 8 a m 9 c d e f g b i j k l h n o p 1 2 3 4 5 
+k 3 p 5 6 2 d 7 a b 4 i e g c h n j 9 l f 8 m o 1 
+m i d 2 1 3 6 4 5 o 7 8 9 n b c k e f g h j l a p 
+9 o l b 4 m n 1 f p 2 3 j h a 5 8 d 6 i c k g e 7 
+c f e g h l i j k 8 m o 6 p 1 2 a 4 7 3 d n 9 5 b 
+7 8 j n a c e h 9 g 5 l d k f m p o b 1 3 i 4 2 6 
+3 4 c 6 7 8 9 e b 5 a h o f g i m k l j n d p 1 2 
+n d 5 1 2 a o p 6 4 8 9 c b j 7 e f g h i l k m 3 
+h m k p g n 3 i 1 2 d 4 5 l 7 8 9 a c b j e f 6 o 
+i e o 8 f 7 j k l c n m p 1 2 3 d 5 4 6 g 9 a b h 
+l j a 9 b d m f g h i e k 3 6 n o p 1 2 7 4 5 8 c 
+d 6 4 7 8 5 a b c 1 e f g 2 i j 3 9 n k m p o h l 
+o 5 1 l p 4 8 6 i m 9 a b c d e f g h 7 2 3 j k n 
+j k g m n o p 9 2 3 h 5 4 7 8 b l 6 a d e f 1 c i 
+e 9 f h i j k l 7 n o p 1 6 3 4 5 c 2 m 8 a b g d 
+2 a b c 3 e f g h d j k l m n o i 1 p 8 9 5 6 7 4 
+5 n 6 4 9 f b c d 7 l g h a e k j m i o p 1 2 3 8 
+p 1 2 3 c i l a 8 6 b j f d 4 9 g h 5 e k o 7 n m 
+8 l m k o p 1 5 3 e c 6 7 i 9 a 2 b d n 4 g h f j 
+f g h i j k 4 m n 9 3 1 2 5 o p 6 7 8 c a b d l e 
+a b 7 d e h g 2 o j k n m 8 p f 1 l 3 4 5 6 c i 9 
+Time 0.405458
+
+Game 24
+1 k 2 4 5 l h 8 n a b c g e j 6 7 i 3 p d m 9 o f 
+l m n o p 1 2 3 4 5 6 7 d 9 a b c 8 e f g h i j k 
+d c i 9 j 6 m 7 o f 1 2 5 3 8 k h g 4 a b p n l e 
+3 h b e f g j i 9 k l m n 4 p 1 d 2 o 5 6 7 8 c a 
+7 6 8 g a b c d e p f h i o k l m n 9 j 1 2 3 4 5 
+5 3 4 i 6 7 k 9 a b c d e 2 g h 8 j f l m n o p 1 
+m 2 o p h e 3 4 5 1 7 8 9 f b c 6 d n g a i j k l 
+f n j k l p 6 o m 8 h 3 4 5 1 7 i 9 a b c e d 2 g 
+c d 1 b g h i j f l m n a p 6 2 4 o k e 7 8 5 9 3 
+9 7 e a 8 2 d n c g j i o k l m 3 5 p 1 h b 4 f 6 
+i 4 3 6 7 j 8 k b c d e f g h 5 9 p l m n o a 1 2 
+n o 5 1 2 3 9 a 6 7 8 4 m b c d e f g h l j k i p 
+g j k f m 4 o p l 2 i 1 3 6 9 8 n a b c 5 d e 7 h 
+h e p l d i n f 1 m 2 o k a 5 3 j 4 6 7 8 9 g b c 
+b 9 a 8 c d e 5 g h n j p l 7 i o k 1 2 3 4 f 6 m 
+4 5 6 c 1 9 a b 2 d e f 8 h i j k l m n o 3 p g 7 
+o p g 2 3 m 5 1 7 6 9 a b c d 4 f e h i j k l 8 n 
+k 8 l m n o p g j 3 4 5 6 7 2 9 a b c d e f 1 h i 
+e f 9 h i c 4 l k n o p 1 j 3 g 5 6 7 8 2 a b m d 
+j a d 7 b 8 f e h i g k l m n o p 1 2 3 4 c 6 5 9 
+8 i 7 5 9 a b c d e p g h 1 f n l m j o k 6 2 3 4 
+2 1 c 3 4 5 7 6 8 9 a b j d e f g h i k p l m n o 
+p l f n o k g 2 3 4 5 9 7 8 m a b c d 6 i 1 h e j 
+a g h j k n l m p o 3 6 2 i 4 e 1 7 8 9 f 5 c d b 
+6 b m d e f 1 h i j k l c n o p 2 3 5 4 9 g 7 a 8 
+Time 1.32932
+
+Game 25
+1 4 3 h 5 f k 8 9 a o 7 n 2 e b c d g i l p m j 6 
+l m j o p 1 2 7 4 5 6 d c 9 a h 3 n e f g i b 8 k 
+8 k i g 2 l m n o p b 1 3 4 5 6 7 9 j a h c d e f 
+b c d e f 6 h i 3 j m k l g p 1 2 8 4 o 5 7 a n 9 
+6 7 n 9 a b c d e g 8 h i j f l m 5 k p 1 2 3 4 o 
+3 5 4 a n o 7 9 h b c f e d g i k j l 8 6 m 2 p 1 
+h 1 o p 6 2 3 4 5 8 7 m 9 a b c d e f g i n j k l 
+2 i 8 k l m g 1 p n j o 4 5 6 7 h 3 9 b c d e f a 
+m d e f b c i j k l 3 n 1 p 2 a o 4 6 5 7 8 h 9 g 
+7 9 g j c a d e f 6 h i 8 k l m p 1 n 2 4 3 o 5 b 
+g 8 5 6 7 9 4 a b c i e f 3 h k j l p m n o 1 d 2 
+n o k 1 4 3 6 p g 7 5 9 a b c d 8 f 2 h e j i l m 
+i j a l m d o 5 1 2 n 8 6 7 4 3 9 c b e p k f g h 
+d e f 3 h i j k l m g 2 p o 1 4 n a 5 7 8 9 6 b c 
+c 2 p b 9 n e f 8 h d j k l m g i o 1 6 a 4 5 3 7 
+4 3 6 7 8 h 9 b c d e l g f i j a k m 1 o 5 n 2 p 
+o p b 2 k 4 5 6 7 i 9 a j c d 8 f g h n m e l 1 3 
+a n 1 m i 8 p o 2 3 4 5 7 h k 9 e b c l j f g 6 d 
+e f h 5 g j n l m 1 2 p b 8 3 o 4 6 7 d 9 a k c i 
+j l 9 c d e f g a k 1 6 o m n 2 5 p i 3 b h 4 7 8 
+5 6 7 8 3 p b c d e f g h i j n l m a k 2 1 9 o 4 
+p h 2 4 j 5 8 3 6 f a b d 1 9 e g i o c k l 7 m n 
+k a m n o 7 1 2 j 9 l c 5 6 8 f b h d 4 3 g p i e 
+f g l i 1 k a m n 4 p 3 2 e o 5 6 7 8 9 d b c h j 
+9 b c d e g l h i o k 4 m n 7 p 1 2 3 j f 6 8 a 5 
+Time 0.32507
+
+Game 26
+h 1 3 4 5 n 7 8 d 2 a c b o e g 9 i j k l m 6 f p 
+l 2 n o p 1 c 3 4 5 7 m 8 9 6 b h a d f g e i j k 
+g m i j k l o 9 a p 1 f 3 4 5 6 7 8 2 e h b d c n 
+b c d e f 6 h i j k g 2 l n p 1 m 3 4 5 8 o 9 7 a 
+6 7 8 9 a g m b e f d h i j k l n p o c 1 2 3 4 5 
+2 3 4 5 6 7 b h f a i d e c g 9 o j k l m 8 n p 1 
+m o 7 p 1 2 3 j 5 6 h 8 9 a b c d e n g 4 i l k f 
+j i l k d m n o p 1 6 3 4 5 2 f 8 7 a b c h e 9 g 
+c h e f g 8 9 l k i m n o p 1 2 3 4 5 6 7 d j a b 
+8 a 9 n b c d e g 4 k 7 j f l m i h p 1 2 3 o 5 6 
+3 4 5 6 7 9 2 a b c o e k g h i j f l d n p 8 1 m 
+n e p c m 3 8 5 6 7 b 9 f 2 d h g o 1 a i j k l 4 
+1 j k l 2 h e p o n 3 i a 6 7 8 4 5 9 m d g f b c 
+d 8 f g h i j k l m n 4 5 1 c 3 p b 6 7 o 9 a e 2 
+i 9 a b o d 4 f 1 g 8 j p l m n c k e 2 3 7 5 6 h 
+o 5 6 2 8 e f m c d l a 7 h i 4 k 9 b j p n 1 g 3 
+e p 1 a 3 4 5 n 7 8 9 o g b f d 2 6 h i j k c m l 
+k l j m n b p 1 2 9 4 5 6 d 8 o a g c 3 e f 7 h i 
+4 f g h c j k 6 i l 2 p 1 e 3 7 5 n m 8 9 a b o d 
+9 d b 7 i o a g h 3 j k c m n e 1 l f p 6 5 4 2 8 
+5 6 c 8 9 a i 4 m e f g n k j p l d 7 h b 1 2 3 o 
+p g 2 3 4 5 6 c 8 h e b d 7 a j f 1 i o k l m n 9 
+7 k o d l p 1 2 3 b 5 6 m 8 9 a e c g n f 4 h i j 
+f b h i j k l 7 n o p 1 2 3 4 5 6 m 8 9 a c g d e 
+a n m 1 e f g d 9 j c l h i o k b 2 3 4 5 6 p 8 7 
+Time 6.69844
+
+Game 27
+1 2 3 4 5 i a n 7 j c k e b f g h d 9 6 l 8 m o p 
+l m o p c 5 2 3 4 d 6 7 8 9 a 1 b j e f g h i n k 
+g h n j k l o 6 9 p 1 2 3 4 5 8 7 i m a b c d e f 
+b f d 8 a g h c e m l i n o p k 2 3 4 5 6 j 1 9 7 
+6 7 i 9 e b f k 8 1 d m g j h l p n o c a 2 3 4 5 
+e 3 4 o 6 7 m 9 a b 2 d p k g h i 8 5 l c n j f 1 
+m n a 5 p 2 3 j g 6 7 c o 8 b e d 9 f 1 h i 4 k l 
+h i j k l n 1 p o 4 9 3 f 5 6 7 c g a b m d 8 2 e 
+c d g f 7 h i 8 k l m e 4 n 1 2 3 p 6 j 5 o 9 a b 
+2 8 9 b 1 c d e f 5 h l j a i m n 4 k o 7 3 g p 6 
+3 c 5 e j 8 9 a p f b o h g d i k m l 7 2 6 n 1 4 
+n o p 1 2 3 4 5 6 g 8 9 a e c d j f b h i 7 k l m 
+i 6 7 g m k n b 1 2 3 4 5 p l o 9 a c 8 d e f j h 
+d 9 f l h m c i j o n 6 k 7 2 3 e 5 1 4 8 p a b g 
+8 b k a 4 d e h l 7 i f 1 m j n 6 2 g p 3 9 5 c o 
+4 5 6 i g 9 7 f c a e 8 b h k j m l 2 n o 1 p d 3 
+o p 1 2 3 6 5 4 b 8 g a d c 7 9 f e h i j k l m n 
+j k l 7 n o p 1 2 3 4 5 9 6 m c a b 8 d e f h g i 
+f e 8 m d j k l h n o p i 2 3 4 5 1 7 g 9 a b 6 c 
+9 a h c b e g d m i j 1 l f n 6 o k p 3 4 5 2 7 8 
+5 1 b h 9 4 j o d e f g 6 i 8 a l 7 n k p m c 3 2 
+p 4 2 3 8 1 6 7 n 9 a b c d e f g h i m k l o 5 j 
+k l m n o p 8 2 3 h 5 j 7 1 9 b 4 c d e f g 6 i a 
+7 g c 6 f a l m i k p n 2 3 4 5 8 o j 9 1 b e h d 
+a j e d i f b g 5 c k h m l o p 1 6 3 2 n 4 7 8 9 
+Time 1.12201
+
+Game 28
+k 1 3 4 5 6 7 8 9 a l c d j f g h i 2 e b m n o p 
+h m n 9 p 1 2 3 4 e 6 7 8 5 a b c d o f l g i j k 
+g d i j b l m 5 o p 1 2 n 4 e k 7 8 9 a 6 c h 3 f 
+l 7 f e c g h n i b 3 m k o p 1 4 6 5 j d 2 8 9 a 
+a 6 8 o 2 j c d f k g h i b 9 l p n 3 m 1 4 e 7 5 
+2 3 4 5 6 7 8 9 a l h d g f c e i j k b m n o p 1 
+m n o p 1 2 d 4 5 6 7 8 e a 3 c 9 l f g h i j k b 
+b h 9 i k m p o j 1 2 n 4 6 l 7 8 3 a 5 c e d f g 
+c g j f e n b i 3 h 5 k o p 1 2 m 4 d 6 7 8 9 a l 
+7 8 d a l c g e k f m i j 9 b h n o p 1 2 3 4 5 6 
+o 4 5 6 7 3 9 a b c i e f g m 8 j p l 2 n d k 1 h 
+i 2 p g j k 4 6 1 7 8 9 3 d 5 n a f b h o l c e m 
+3 a k l m 8 o p n 5 b 6 2 h 7 d e 9 1 c i j f g 4 
+f e c d h i j m l g n o p 1 k 3 6 5 4 7 8 9 a b 2 
+8 9 1 b n d e f h 2 c 4 a l j m o g i k 3 p 5 6 7 
+6 p 7 h 8 9 a j c d e f b k i 4 g 2 m n 5 o 1 l 3 
+1 o e 2 3 4 5 b 6 8 d a 9 c g i f 7 h l j k p m n 
+j k l n a o 3 1 2 m 4 5 6 7 8 9 d b c p e f g h i 
+4 f g m i e k l p n o 3 1 2 h j 5 a 6 8 9 7 b c d 
+9 5 b c d h f g 7 i j p l m n o k 1 e 3 4 a 6 2 8 
+e c 6 7 9 a n k d 3 f g h i 2 5 b m 8 o p 1 l 4 j 
+p j 2 3 4 b 6 7 8 9 a 1 c e d f l h g i k 5 m n o 
+n l m k o p 1 2 g 4 9 b 5 8 6 a 3 e j d f h 7 i c 
+5 i h 8 g f l c m o p j 7 3 4 6 1 k n 9 a b 2 d e 
+d b a 1 f 5 i h e j k l m n o p 2 c 7 4 g 6 3 8 9 
+Time 1.65012
+
+Game 29
+m 2 3 4 p 1 5 d 9 a k 6 c e f g h n j i l 7 b o 8 
+l c n 5 1 o 2 3 4 6 7 j 8 9 a d m b e f p h i g k 
+g h i j f l 7 n m p 1 b 3 o 5 6 4 8 k 2 9 a d e c 
+b a d e o g 8 h j k 2 m i 4 p l c 3 9 7 6 1 n f 5 
+6 7 8 9 k b c i e f d l n g h a 5 1 o p m 2 3 4 j 
+5 3 4 m h 7 6 8 1 b o d e k g c i j a l 2 n 9 p f 
+k n o p 6 2 a 4 5 m c 8 9 7 b h d e f g 1 i j 3 l 
+1 i 2 8 l c j o f n 4 3 a 5 6 7 k 9 p b h d e m g 
+c d e f g h i 9 k l m n j p 1 o 3 2 5 6 7 8 4 a b 
+7 b 9 a j p d e 3 g h i f l 2 m n 4 8 1 c k o 5 6 
+i f 5 7 2 8 9 a n c g e d h k b j l m 3 o 4 p 6 1 
+n o p 1 d 3 4 5 b 7 8 9 6 a c 2 e f g h i j k l m 
+h j k l m i o p g 1 3 4 5 b 7 8 9 a 6 c d e f n 2 
+9 e 6 g 3 k m f l 2 n o p 1 j i 7 5 4 d 8 c a b h 
+8 4 a b c d e j 6 h i 2 l f m n o p 1 k 3 g 5 9 7 
+4 5 j o 8 9 p b c d l f g 6 i e 2 k h n a m 1 7 3 
+2 p 1 i e 4 h 6 7 8 9 a o c d 3 f g b m j 5 l k n 
+d k l 6 a m n 1 2 3 5 7 4 8 e 9 p o c j b f g h i 
+f g m h n j k l o 5 b p 1 2 3 4 a i 7 8 e 9 6 c d 
+3 9 b c 7 e f g a i j h k m n 1 l 6 d 5 4 o 8 2 p 
+j 6 7 3 5 a b c d e f g h i 9 k 8 m l o n p 2 1 4 
+e 1 c 2 4 n 3 7 p 9 6 5 b d 8 f g h i a k l m j o 
+o m g n 9 6 1 k 8 4 p c 7 j l 5 b d 2 e f 3 h i a 
+p 8 f k i 5 l m h o a 1 2 3 4 j 6 7 n 9 g b c d e 
+a l h d b f g 2 i j e k m n o p 1 c 3 4 5 6 7 8 9 
+Time 5.59863
+
+Game 30
+1 2 d e 5 k 7 8 9 a b 4 f l o g h 6 j i 3 m n c p 
+l m g o p 1 2 n 4 5 6 e 3 9 a 8 c d b f 7 h i j k 
+i h c j k l m 6 f o 1 p n 8 7 3 2 4 9 a b d 5 e g 
+b 4 3 n f g h i j p 5 m d 2 c 1 l k e 7 6 9 8 o a 
+6 7 8 9 a b c d e 3 g k i j h m 5 n o p l 2 1 4 f 
+h 3 4 5 6 7 8 9 a b c d e f g k m j i l 2 n o p 1 
+m n e p 1 2 3 4 5 6 7 9 8 a k c d o f g h i j b l 
+g k j b i m n o p 1 2 6 4 5 l 7 8 9 a h c 3 e f d 
+c d 7 f 2 h k j i l m n o p 1 e 4 b 5 3 g 8 9 a 6 
+9 8 o a l c f e d g h 3 j i b 2 n p 1 6 m 7 4 k 5 
+3 6 5 4 7 8 9 a o c d g h k m i j f l 2 n e p 1 b 
+2 o a 1 m n b 5 6 7 8 c 9 4 p d e 3 g k i j f l h 
+p j k l n e 4 3 1 2 i 7 5 b f h a 8 6 c 9 o d g m 
+d e f i g p j h k m n o l 1 2 4 9 5 7 b 8 a 6 3 c 
+8 9 b h c d i g l f 3 j a e 6 n o 1 p m k 4 2 5 7 
+o l 6 7 8 9 a f c h 4 5 g d i j k e m n 1 p b 2 3 
+j p 1 2 3 4 d 7 g 8 9 a b c e 6 f i h 5 o k l m n 
+4 5 n m h 3 p 1 2 j k l 6 7 8 o b a c d e f g 9 i 
+e f 9 k b i 5 l m n o 2 1 h 3 p 7 g 4 8 d c a 6 j 
+a g i c d 6 o k b e j f p m n 9 3 l 2 1 4 5 h 7 8 
+5 i l 3 9 a e 2 7 d f 8 k 6 j b g m n o p 1 c h 4 
+7 1 2 8 4 5 6 p 3 9 e b c g d f i h k j a l m n o 
+k a m 6 o j 1 b 8 4 l h 7 n 9 5 p c d e f g 3 i 2 
+f c h g j o l m n i p 1 2 3 4 a 6 7 8 9 5 b k d e 
+n b p d e f g c h k a i m o 5 l 1 2 3 4 j 6 7 8 9 
+Time 0.793195
+
+Game 31
+1 m 3 4 5 e a 8 6 i b c d 7 p g h 9 j k l f n o 2 
+l o 8 j p 4 7 d h 5 6 2 n 9 a b c 3 e f g 1 i m k 
+g h i e k l m n c p 1 o 3 4 f 2 7 8 6 a b j d 5 9 
+f c d b 2 9 j k 3 1 l m 5 e g i o n 4 p 6 h 8 7 a 
+6 7 n 9 a b 2 g o f k j i h 8 d m 5 l 1 p c 3 e 4 
+2 3 4 5 6 7 b j a 8 c d e f i h 9 g k l m n o p 1 
+k n o p 1 2 3 h m 4 g 6 8 a b c d e 5 i 7 9 j f l 
+h i c m l 6 n o p 9 2 1 4 5 k 8 f 7 b j d 3 e a g 
+e d j f g 1 5 i k l 7 n o p 9 m 3 4 a 6 c 8 h 2 b 
+7 8 9 a b c d e f g h 3 j m l 1 n o p 2 5 i 4 k 6 
+b 4 5 6 9 8 g a 7 c d e f j h 3 2 k o m n l p 1 i 
+n 1 p l 7 3 4 5 b 6 8 9 a o c f e i g h k d 2 j m 
+d j k i m n o p 1 2 3 b 6 g 4 7 l a 8 5 h e f 9 c 
+c e g 3 h i k f l m n p 7 1 2 6 4 j d 9 8 o a b 5 
+8 2 a o f d e 9 j h i 5 l k m n b p 1 c 3 4 g 6 7 
+4 5 6 2 8 h i b 9 a e f g c 7 j k l m n o p 1 d 3 
+m p 1 7 3 5 c 6 4 n o 8 9 b d e a f h g 2 k l i j 
+j k l g n o 8 1 2 3 4 a p 6 5 9 i b c d e 7 m h f 
+o f e h d j p l g k m i 1 2 3 4 5 6 7 8 9 a b c n 
+9 a b c i m f 7 e d j k h l n o p 1 2 3 4 5 6 g 8 
+5 6 7 k c a h 4 d e f g b i j l 8 m n o 1 2 9 3 p 
+p 9 2 1 4 f 6 3 8 7 a l c d e k g h i b j m 5 n o 
+3 l m n o p 1 2 i b 5 h k 8 6 a j c 9 e f g 7 4 d 
+i g h 8 j k 9 m n o p 4 2 3 1 5 6 d f 7 a b c l e 
+a b f d e g l c 5 j 9 7 m n o p 1 2 3 4 i 6 k 8 h 
+Time 1.89011
+
+Game 32
+1 2 l 4 5 g 7 8 6 j o c d e f k i b h a 3 m n 9 p 
+d m n o p 5 9 3 4 l 8 7 i b a 2 6 j e f g h k 1 c 
+g h i j k n c b 1 p 5 6 3 4 2 l 7 8 9 m a o d e f 
+b c 3 e f h a i o k l m n 9 p 1 d g 4 5 6 7 8 j 2 
+6 8 7 9 a f m 2 e d 1 h g j k 3 c n o p 5 l i b 4 
+9 3 4 5 6 7 i j a b c d e f g h n p k l m 8 2 o 1 
+c 7 o p 1 2 3 n 5 6 h 8 9 a b f m e i 4 d g j k l 
+h g j k l m 4 o 9 1 7 3 p 2 6 a 8 d 5 b c i e f n 
+e d f i m l h p k 8 n 5 4 o 1 c g 6 2 j 7 3 9 a b 
+2 n 8 a b c d e f g m i j k l 7 o 1 3 9 h p 4 5 6 
+m o 5 6 7 8 1 a c 4 p e f g h i j 2 l k b d 3 n 9 
+i p a 1 2 3 j 5 n 7 b 9 8 6 c d e f g h k 4 o l m 
+8 j k l g d o 9 i 2 3 4 5 m 7 n p a b c 1 e f 6 h 
+3 4 e f h b g k l m d o 2 1 n 8 5 9 6 7 i c a p j 
+n 9 d b c 6 e f p h i a k l j m 4 3 1 o 8 2 5 g 7 
+4 5 6 7 8 9 p c b i g f a h d e k l m n o j 1 2 3 
+o e 1 2 3 4 5 d 7 a 9 n b c 8 6 f h j g p k l m i 
+j b p m n 1 2 l 8 3 4 k 6 7 o 9 a i c d e f g h 5 
+l f g h i j k 6 m n e p 1 5 3 4 2 o 7 8 9 a b c d 
+k a 9 c d e f g h o j 2 l i m b 3 5 p 1 4 n 6 7 8 
+5 6 b g 9 a 8 4 d e f j 7 p i o h m n 2 l 1 c 3 k 
+p 1 2 8 4 k 6 7 j 9 a b h d e g l c f 3 n 5 m i o 
+7 l m d o p n 1 3 5 2 g c 8 9 j b k a i f 6 h 4 e 
+f k h n j i l m g c 6 1 o 3 4 5 9 7 8 e 2 b p d a 
+a i c 3 e o b h 2 f k l m n 5 p 1 4 d 6 j 9 7 8 g 
+Time 0.747497
+
+Game 33
+5 7 d e k 6 h i 9 8 b c 2 l f g 1 3 j o p m n a 4 
+1 8 n m p f 2 3 l 5 g 4 o 9 a b e d 7 k 6 h i j c 
+h c 3 j i 4 m n o k 1 7 5 d p 6 2 8 9 a b g l e f 
+b 2 l o f g a 1 j p 6 m n e 3 i h c 4 5 d 7 8 9 k 
+6 4 g 9 a b c 7 e d k h i j 8 l f n m p 1 2 o 3 5 
+2 3 4 5 9 7 n 8 a b c d e f g h i j k l m o 1 p 6 
+7 n o p 1 2 l 4 5 6 m 9 3 8 b c d e f g h i j k a 
+i h 8 k l 3 j o p 1 2 n 4 5 6 7 m 9 a b c d e f g 
+c d j f g m i e k h a l 1 p o 2 3 4 5 6 8 n 9 7 b 
+a m e 6 b c d 9 f g h i j k 7 n 8 o p 1 2 3 4 5 l 
+3 i 5 1 7 8 9 a b c d 6 m o h 4 j k l e g f p n 2 
+l o p n 2 h 4 5 6 7 8 e 9 b c d a f g 3 i j k 1 m 
+m j k g 6 n 3 p 1 l f 5 a 4 2 8 9 i b h 7 e c o d 
+d e f 4 h i k 2 g o 3 j p 1 n m c 5 6 7 l 9 a b 8 
+8 9 a b c d e j m f i k g 7 l 1 o p n 2 3 4 5 6 h 
+4 5 b 7 8 9 1 d c a n f 6 h i j k l e m o p g 2 3 
+o k 1 2 3 l 5 6 7 i 9 a b c e p 4 g h f j 8 d m n 
+j p 6 a n o 8 k 2 m 4 3 l g 1 9 7 b c d e 5 f h i 
+e l i h m j g f 4 n o p d 2 k 3 5 6 1 8 9 a b c 7 
+g f 9 c d e p b h 3 j 8 7 m 5 o n a 2 i 4 k 6 l 1 
+f 6 2 8 5 a b c d e 7 g h i j k l m o 9 n 1 3 4 p 
+9 1 7 3 4 5 6 g n 2 e b c a d f p h i j k l m 8 o 
+k a m i o p 7 l 3 4 5 2 8 6 9 e b 1 d n f c h g j 
+n g h l j k o m i 9 p 1 f 3 4 5 6 7 8 c a b 2 d e 
+p b c d e 1 f h 8 j l o k n m a g 2 3 4 5 6 7 i 9 
+Time 0.531578
+
+Game 34
+g d 9 4 5 6 m 8 l a b c i e f 1 3 2 j 7 k h n o p 
+l m f h p 1 2 3 e 9 o 7 4 n 5 b c d 6 k g 8 i j a 
+k b 8 7 j 5 4 n o p 1 2 3 6 h g e i 9 a l c d m f 
+o c n 1 2 7 h i j k g 8 d l a m p f 4 5 6 e 3 b 9 
+6 e i 3 a b c d g f p m k j 9 l h n 8 o 1 2 7 4 5 
+2 3 d f 6 l 7 e a n c 5 8 o g h m j k 9 b i 4 p 1 
+m 5 o k 1 2 6 4 8 3 7 d 9 p b c i e f g h n j a l 
+h i j n l m p o 9 1 k 3 2 4 6 7 b a 5 8 c d e f g 
+c a e p g h i b k 5 m n j f 1 d 2 4 l 3 7 6 8 9 o 
+7 8 4 9 b c d j f g h i e a l 6 n o p 1 m 3 5 k 2 
+3 4 5 6 7 p 8 a h c l e f g 2 i j k b m n o 9 1 d 
+1 o p e f 3 j 5 6 7 8 9 a b c n d h g 4 2 k l i m 
+i n k l c d o 9 b 2 3 4 m 5 7 f 1 8 a 6 e j p g h 
+d 9 2 g h i n k 4 m 6 j p 1 o 3 l c 7 e 8 a f 5 b 
+8 j a b m g e f 1 l d h n i k 5 9 p o 2 3 4 c 6 7 
+a 7 6 5 8 9 b p c d e f g h i j 4 l m n o 1 k 2 3 
+e p 1 2 3 4 a 6 7 8 9 o 5 c d k f g h i j m b l n 
+j k l m n e 5 1 2 o 4 6 b 7 8 9 a 3 d c p f g h i 
+4 f g o i j k l m h n p 1 2 3 8 5 6 e b d 9 a 7 c 
+9 h b c d n f g 3 i j a l k m o 7 1 2 p 4 5 6 e 8 
+b 6 7 8 9 k 1 c i e f g h d j a o m n l 5 p 2 3 4 
+p 1 3 j 4 o 9 7 d 6 a b c 8 e 2 g 5 i h f l m n k 
+f l m a o 8 3 2 p 4 5 k 7 9 n e 6 b 1 d i g h c j 
+5 g h i k f l m n b 2 1 6 3 p 4 8 9 c j a 7 o d e 
+n 2 c d e a g h 5 j i l o m 4 p k 7 3 f 9 b 1 8 6 
+Time 1.94104
+
+Game 35
+m 2 n 1 5 7 k 8 9 a b c d 4 i g 6 3 j f l o h e p 
+j o h 7 p 1 l 3 4 5 6 2 8 f m b c k e a g d 9 i n 
+g 3 i 4 k n m b 2 p l h a e 1 d 7 o 9 8 6 c 5 j f 
+l c f e 9 d g i j 6 k 3 n o p 1 2 4 5 h a 7 8 b m 
+6 8 d b a o c h e f g 7 5 j 9 l m n i p 1 2 3 4 k 
+2 i b 3 6 l o 9 a 8 c d e n f h j 7 4 5 m g k p 1 
+o 5 c k n 2 3 4 m 1 7 8 9 a 6 p d f g l j i e h b 
+a h j 8 l 6 7 p d b 2 g 4 5 3 m e i 1 k c n o f 9 
+7 d e f g h i j k n 1 m o p b c 3 9 8 6 2 5 4 a l 
+1 m 9 p 4 c f e 5 g h i j k l 2 n a o b 7 3 d 8 6 
+3 e 5 6 1 4 9 d b c 8 o f g j 7 i l h m n a p k 2 
+n p a c 2 3 8 o 6 7 d 9 m b h f 4 e k 1 i j g l 5 
+i j k l b m 1 5 n 2 a 4 c 6 7 8 9 p 3 g d e f o h 
+d 4 o g h i j k f l 3 e p 1 2 n b 5 a c 8 9 m 6 7 
+8 9 7 m f g e a p h i n k l 5 6 o j d 2 3 4 b 1 c 
+4 7 6 5 8 9 a l c d e f i h g j k b m n o p 1 2 3 
+e n p 2 3 8 5 6 7 k 9 a 1 c d o h g l i b f j m 4 
+c k l j m b p 1 o 3 4 5 6 7 8 9 a 2 f d e h n g i 
+b f 1 h i j 4 n g m o p 3 2 k e 5 8 6 7 9 l a c d 
+9 a g o d e 2 f h i j b l m n 4 p 1 c 3 5 k 6 7 8 
+5 6 3 9 7 a b c 1 e f j h i 4 k l m n o p 8 2 d g 
+p 1 2 a c 5 6 7 8 9 n k g d e i f h b j 4 m l 3 o 
+k l m n o p h 2 3 4 5 6 b 8 c a g d 7 e f 1 i 9 j 
+f g 4 i j k d m l o p 1 7 3 a 5 8 6 2 9 h b c n e 
+h b 8 d e f n g i j m l 2 9 o 3 1 c p 4 k 6 7 5 a 
+Time 0.84919
+
+Game 36
+2 4 3 1 5 a 7 8 o 9 6 f d e c g h i j k l m b n p 
+h k l n p 1 2 3 4 5 o m 9 8 7 b c d e f g 6 i j a 
+g e m o i l h n j p 3 1 4 b 5 6 7 8 9 a d c 2 f k 
+b c d j f 6 g i m e l a n k p 1 2 3 4 5 o 7 8 9 h 
+6 7 8 9 a b c d k f 2 h i j g l m n o p 1 5 3 4 e 
+1 3 j 5 6 7 8 9 a b c 2 e d 4 h f g k i m n o p l 
+m n o p 9 2 k 4 5 6 7 8 3 f b e d j c l h i g a 1 
+k h i 4 l m n o 3 1 g p j 5 6 7 8 9 a b c d e 2 f 
+c d e f g h i j p l m n o a 1 2 3 4 5 6 7 8 9 k b 
+7 8 2 a b c d e f g h i k 9 l m n o p 1 4 3 j 5 6 
+n 2 4 3 7 8 6 a b c 9 e f l h i j k m g p o 5 1 d 
+i o p 6 c 3 4 5 9 7 8 k b g a d e f 1 h 2 j n l m 
+l j k e m n o p 1 2 d 4 5 6 3 8 9 a b c i h f g 7 
+d 9 f g h i j m l k n o p 1 2 3 4 5 6 7 8 e a b c 
+8 5 a b 1 g e f d h i j c 7 m n o p l 2 3 4 k 6 9 
+4 p 6 7 8 9 a b c d e 3 g h i j k l f m 5 2 1 o n 
+9 a 1 c 3 4 5 6 7 8 b d 2 p f o g e h n j k l m i 
+j l 5 m n o p 1 2 3 k 7 6 c 8 9 a b i d e f 4 h g 
+e f g h 2 k m l i n 1 9 a o j 4 5 6 7 8 b p d c 3 
+o i b k d e f g h j 4 5 l m n c p 1 2 3 9 a 6 7 8 
+5 1 7 8 k f b c e m j g h i d a l 2 n o 6 9 p 3 4 
+p 6 9 l 4 5 3 7 8 o a c 1 n e f i h g j k b m d 2 
+3 m n 2 o p 1 h g a 5 6 8 4 9 k b c d e f l 7 i j 
+f g h i j d l 2 n 4 p b m 3 k 5 6 7 8 9 a 1 c e o 
+a b c d e j 9 k 6 i f l 7 2 o p 1 m 3 4 n g h 8 5 
+Time 0.625284
+
+Game 37
+o 2 3 4 a 6 7 j 9 8 b c h f e n 1 i g k d m 5 l p 
+l m n p k 1 c 3 4 f 5 2 8 d a b 9 6 e 7 g h i j o 
+d 6 h j 5 l 2 n o p i 9 7 4 g c m 8 3 a b 1 k e f 
+b c 8 e f d h g i k l 1 n o m 4 2 p j 5 3 7 6 9 a 
+9 7 g i 1 b m 5 e a j 6 p 3 k l o h d f c 2 n 8 4 
+3 d 4 o 6 7 8 9 a 5 2 g e b f h i j k l m n c p 1 
+m n 2 5 p c 3 4 j b 7 8 9 a 6 g d e f 1 l k o i h 
+h i j k l m 6 o 2 1 c 3 4 5 n 8 p 9 a b 7 d e f g 
+c f e 7 g h n i k l m d o p 1 2 3 4 5 6 9 8 j a b 
+1 8 9 a b e p d f g h i j k l m n o 7 c 2 5 3 4 6 
+6 4 5 l 3 8 9 c b h d o f e 7 i j k m g n a p 1 2 
+n o p 1 2 g 4 a 6 7 8 b k m c d e f l 9 i j h 3 5 
+i j k f m n o p 1 2 3 4 5 9 h 7 c a b 8 e 6 d g l 
+7 e d g h i j k l m 1 n a 6 2 3 4 5 p o 8 9 f b c 
+8 9 a b c 5 d f 3 e g j i l p 1 h n 6 2 o 4 m k 7 
+4 5 f 6 8 9 1 b c d e m g h i j 7 l o n k p a 2 3 
+2 p 1 9 i k 5 8 7 6 4 a b c d e f g h 3 j o l m n 
+j k l m n 4 e 2 p 3 o 5 6 7 8 9 a b c d 1 f g h i 
+e 3 o h 7 j a l g n f p 1 2 9 k 8 m 4 i 6 c b 5 d 
+g a b c d o f h m i n k l j 3 6 5 1 2 p 4 e 8 7 9 
+5 l 7 8 4 a i e h 9 6 f d 1 j o g 3 n m p b 2 c k 
+p 1 m 3 9 2 k 7 5 o a e c g b f 6 d i j h l 4 n 8 
+k h i 2 o 3 l 6 n 4 p 7 m 8 5 a b c 1 e f g 9 d j 
+f g 6 n j p b m d c 9 l 2 i 4 5 k 7 8 h a 3 1 o e 
+a b c d e f g 1 8 j k h 3 n o p l 2 9 4 5 i 7 6 m 
+Time 0.605796
+
+Game 38
+1 2 b 4 5 6 p 3 9 i 8 c d e f g 7 l j k h m n o a 
+l m n 3 p 1 2 b 4 5 6 7 h 9 a d c o e 8 f g i j k 
+g h i f k 7 m n l o 1 2 j 4 5 6 a 3 9 p b c d e 8 
+o c d e a g h 8 j k b m n 3 l 2 1 f i 5 6 7 4 9 p 
+6 7 8 9 j d c f e a g o i p k h m 4 b n 1 l 3 2 5 
+2 5 g j 6 l 4 9 a b c 8 e f p k 3 i h m 7 n o d 1 
+4 1 m a h 2 3 o 8 6 7 k 9 n b c d e f g 5 i j p l 
+b i 3 k l m n h p 1 2 d 4 5 6 7 o 9 a j c 8 e f g 
+p d e 8 f c i j k 7 h 3 o g 1 b l n 5 4 m 2 6 a 9 
+7 n 9 c o 5 d e f g j i a l m 1 2 8 p 6 3 h k 4 b 
+d 4 7 5 8 3 9 a 1 c m e f i h l j k g b n o p 6 2 
+n o p 6 c k f d 7 4 5 1 8 b g 3 e a 2 h i j 9 l m 
+i l j h m n b p 6 2 3 4 7 a d 8 9 5 o c g e 1 k f 
+k e f g 1 h j 5 i l 9 n p o 2 m 4 6 d 7 8 3 a b c 
+3 9 a 2 b o e m g 8 l j k 6 c n i p 1 f 4 d 5 h 7 
+c k 4 7 g b a 1 o f e 9 l h i p n d m 2 j 6 8 5 3 
+h 8 1 p 3 4 5 6 d 9 o a b c j e f g 7 i 2 k l m n 
+j f l m n e k i 2 3 4 5 6 7 8 9 h b c a o p g 1 d 
+e b 6 o i 8 7 g m n d p 1 2 3 4 5 j k l 9 a f c h 
+9 a 5 d 2 j l c h p k f g m n o 8 1 6 3 e 4 b 7 i 
+5 6 h 1 9 a 8 l b e i g c d 7 j k m n o p f 2 3 4 
+8 p 2 i 4 9 6 7 c j a b 3 1 e f g h l d k 5 m n o 
+m g k n 7 p o 2 3 d f 6 5 8 9 a b c 4 e l 1 h i j 
+f 3 o l d i 1 k n m p h 2 j 4 5 6 7 8 9 a b c g e 
+a j c b e f g 4 5 h n l m k o i p 2 3 1 d 9 7 8 6 
+Time 0.884862
+
+Game 39
+4 2 3 h 5 6 7 8 9 p b c d o i g a e l k 1 m n j f 
+6 m n o p 1 2 a 4 5 7 3 e 9 l b c f d j g h i 8 k 
+1 g i j k l m n h o 5 2 a 4 f 6 7 8 9 p b c d e 3 
+b c d e f g j i 3 k 1 m 8 h p n 2 o 4 5 6 7 l 9 a 
+l 7 8 9 a b c d e f g 6 n j k h m i 1 3 p 2 o 4 5 
+2 3 4 5 6 p 8 9 a 1 c l b d e o i j k g m n 7 f h 
+m n 9 p b c 3 4 7 i 2 8 o 5 g e h d a f l 6 j k 1 
+c 1 j k l m n o 5 2 3 a 4 f h 7 8 9 p 6 i d e b g 
+i d e f g j h 6 k l m n 7 p 1 2 3 4 5 b c 8 9 a o 
+7 h o a 8 e d b f g 6 i j k 9 c n l m 1 2 3 p 5 4 
+p 4 5 6 7 8 9 3 j c d e f g a i b k h l n o m 1 2 
+n j k 1 o 2 4 f 6 7 h 9 3 b c m e 5 g 8 d i a l p 
+8 i b 2 m n o p 1 h l 4 5 6 7 d 9 a f c k e 3 g j 
+d e f g h i a k l m n o p 1 2 3 4 6 j 7 8 9 5 c b 
+3 9 a l c d e 5 g b i j k 8 m p 1 n o 2 h 4 f 6 7 
+h 5 6 7 4 9 i j c d e f g a b 8 k 3 2 n o p 1 m l 
+o p 1 b 3 7 5 e m 8 9 h i c d l f g 6 a j k 4 2 n 
+j k l m n a p 1 2 3 8 5 6 7 4 9 o b c d e f g h i 
+e f g 8 i o k l n 6 j p 1 2 3 4 5 h 7 m 9 a b d c 
+9 a 2 c d h f g b 4 o k l m n j p 1 e i 3 5 6 7 8 
+5 6 7 4 9 3 b c 8 a p g h i j k l m n e f 1 2 o d 
+g b p 3 1 5 6 7 o 9 a d c e 8 f j 2 i h 4 l k n m 
+k l m n e 4 1 2 p j f b 9 3 5 a d c 8 o 7 g h i 6 
+f 8 h i j k g m d n 4 1 2 l o 5 6 7 3 9 a b c p e 
+a o c d 2 f l h i e k 7 m n 6 1 g p b 4 5 j 8 3 9 
+Time 15.3505
+
+Game 40
+1 2 n 4 5 6 c 8 9 a b m d e f g h i j 3 7 l o k p 
+l m i 6 p 1 2 3 4 5 g 7 o 9 k b d e c f h 8 n j a 
+g e j h k l m n o p 8 2 3 4 5 1 7 6 9 a b c d i f 
+b c d o f e 7 i j h l a n 1 p k 2 8 4 5 6 3 m 9 g 
+a 7 8 9 3 b g d k f 6 h i j c l o n m p 1 2 e 4 5 
+2 5 4 3 6 7 8 9 b l n d e c m h k j a g i o f p 1 
+m j o p 1 k d f 5 6 7 9 g a b c e 2 i l 3 4 8 n h 
+h g e f l m n o 2 1 p i 4 3 6 5 8 9 d b c k 7 a j 
+c d k n 8 h i a p j 2 o 5 l 1 f 3 4 7 6 e m 9 g b 
+7 i 9 a b c 4 e 3 g h 8 f k j m n o p 1 2 d l 5 6 
+3 h c k 7 8 9 b a 4 d e l 5 g 6 j f o m n i p 1 2 
+9 o p 1 2 3 h 5 f 7 a k m b 8 n i d l e g j 4 6 c 
+i n g 5 m o j l 1 2 3 4 p 6 7 8 9 a b c d e h f k 
+d l f e j i p k 6 m o c 1 n 2 3 4 5 g h 8 b a 7 9 
+8 4 6 b a d e c g n i j 9 f h 7 p 1 k 2 m 5 3 o l 
+4 b 5 7 9 n a g c d 1 f k h i j m l 6 8 o p 2 e 3 
+o p 1 j i 2 5 6 7 8 9 b c g d e f 3 h 4 l a k m n 
+6 k 2 m n 4 3 p l o e 5 8 7 a 9 c b 1 d j f g h i 
+e 8 l g h j f 1 m b 4 p 2 o 3 a 5 k n i 9 7 6 c d 
+f a 3 c d 9 k h e i j n 6 m l o g p 2 7 4 1 5 b 8 
+k 6 7 8 c a 1 j d e f g h i n 2 l m 5 o p 9 b 3 4 
+5 3 m i 4 g l 7 8 9 c 6 b d e p a h f j k n 1 2 o 
+j 1 a d o p 6 2 h k 5 3 7 8 9 4 b c e n f g i l m 
+p f b l g 5 o m n 3 k 1 j 2 4 i 6 7 8 9 a h c d e 
+n 9 h 2 e f b 4 i c m l a p o d 1 g 3 k 5 6 j 8 7 
+Time 0.708176
+
+Game 41
+1 2 4 o 3 a i e 9 6 b c n 7 f g h d j k 8 m l p 5 
+l m n d p 1 2 7 3 5 h 6 8 9 a b c o e f g 4 i j k 
+g h i j k l m n o p 1 2 3 4 5 6 7 8 9 a b c d f e 
+b c 8 e f g h d 4 j l m p o k 1 n i 5 2 3 7 6 9 a 
+6 7 5 9 a b c k 8 f g d i e j 4 m l p 3 1 2 o n h 
+2 3 p 5 6 7 8 9 a b c f d 1 l h i j k m o n e 4 g 
+7 l o n 1 m 3 4 5 2 9 8 e a b c d 6 f g h i j k p 
+k 8 e g j c n o i 1 2 3 4 5 h 7 p 9 a b l f m d 6 
+h i d f c e k j 6 l m n o p g 2 3 4 8 5 7 1 9 a b 
+m 4 9 a b d p h f g 7 i j k 6 e l n o 1 2 3 c 5 8 
+4 b 3 6 5 8 9 2 n a d h c g 7 i j k l o m e p 1 f 
+n o k 1 g 3 4 5 c 7 8 9 a b p d e f m 6 i j h l 2 
+i j m c 7 o l p 1 k f 4 5 6 e 9 2 a b h d 8 n g 3 
+d e f p h i g 6 j m n o 1 l 2 3 4 5 7 8 k 9 a b c 
+8 9 a l 2 h e f b d i j k 3 m n 1 p g c 4 o 5 6 7 
+o 5 l 4 8 9 a b m c e 7 g h i j k 3 d n 6 p f 2 1 
+p 1 h 2 e 4 5 l 7 8 o a b c d f 9 g 6 i j k 3 m n 
+j k 6 m n 2 o 1 p 3 4 5 9 f 8 l a b c 7 e d g h i 
+c f b 7 i j d g k n 3 p 6 2 1 m 5 h 4 e 9 a 8 o l 
+9 a g 3 d 6 f i e h j k l m n o 8 1 2 p c 5 b 7 4 
+5 6 7 8 9 n b c d e a g 2 i o k f m 1 l p h 4 3 j 
+a p 1 h 4 5 7 m 2 9 6 b f d 3 8 g e i j n l k c o 
+3 n 2 k o p 6 8 l 4 5 e 7 j 9 a b c h d f g 1 i m 
+f g c i l k j 3 h o p 1 m 8 4 5 6 7 n 9 a b 2 e d 
+e d j b m f 1 a g i k l h n c p o 2 3 4 5 6 7 8 9 
+Time 0.709022
+
+Game 42
+1 9 3 4 p 7 2 8 e 6 c i d a b h f 5 j k l m n o g 
+l m o j 2 1 i 3 g 5 6 7 n 4 f b c d e a 8 h p 9 k 
+g h 7 f k l m 9 4 p 1 2 3 e 5 8 o i n 6 b c d j a 
+b c d e 5 a h n j k m o 8 l g 1 9 3 2 p 6 4 i f 7 
+6 8 n i a b c o d f p h 9 j k 4 m g 7 l 1 2 3 e 5 
+h 3 5 a 6 4 8 e 9 b g 1 i f l c 7 j k n m d o p 2 
+m n 9 p 8 2 o h 5 3 7 c b k a 6 d e f g 4 i j 1 l 
+o d l k c m n j p 1 2 3 4 5 6 i 8 9 a b g 7 e h f 
+2 f j 1 g 6 7 k i l d n o p e m 3 4 5 h c 8 9 a b 
+e i 4 b 7 c d a f g h m j 9 8 l 2 o p 1 n 3 k 5 6 
+3 4 a 6 1 8 9 p b c i d f g h n j k l m 2 o 5 7 e 
+n o p 5 i k 3 4 6 7 8 9 a b c d e f g 2 h j m l 1 
+8 j k l m n e d 1 2 3 4 5 o 7 9 h a b c i 6 f g p 
+c 7 f g h i j 5 l m e k p 2 1 3 4 8 6 o d 9 a b n 
+d 2 e 9 b g a f o h n j l 6 m 7 i p 1 5 3 k 8 4 c 
+4 5 6 o n 3 p b c d 9 a g 8 i j k 7 m f e l 1 2 h 
+9 p 1 2 3 o 5 6 7 8 b e k c d g a l h i j f 4 n m 
+j k h m d 9 f 1 2 a l 5 6 7 4 e n b c 3 o p g i 8 
+i e g 7 f j k l m n o p 1 h 3 2 5 6 4 8 9 a b c d 
+a b 8 c l e 4 g h i j f 2 m n o p 1 d 9 7 5 6 k 3 
+7 6 c 8 9 5 b i a e f g h 1 j k l m o d p n 2 3 4 
+5 1 i n 4 p 6 7 3 9 a b c d 2 f g h 8 j k e l m o 
+p l m 3 o d 1 2 k 4 5 8 7 n 9 a b c i e f g h 6 j 
+k g 2 h j f l m 8 o 4 6 e 3 p 5 1 n 9 7 a b c d i 
+f a b d e h g c n j k l m i o p 6 2 3 4 5 1 7 8 9 
+Time 58.7798
+
+Game 43
+b 2 1 3 o 6 7 8 n j 4 c d e f g h l 9 k 5 m i a p 
+l n g m i 1 2 3 e p 6 7 5 9 a c 8 d j f k h b o 4 
+d 5 p h k l o m 4 9 b 2 3 1 8 6 7 i e a g c n j f 
+c j f e 8 g a i k h l m n o p 1 5 3 4 b 6 2 d 9 7 
+6 7 a 9 4 d c b f 5 g h i j k m 2 n o p l 8 3 e 1 
+2 k b 5 6 7 8 f a 1 c d 4 p g h i j 3 l m 9 e n o 
+o m n p 1 2 3 4 5 6 h 8 9 a b 7 c e f g d i j k l 
+h i 4 j l m n k p b 2 3 e 5 6 8 d 9 a o c 1 7 f g 
+g d e c a h i j 9 l 7 n o f 1 5 m 4 k 6 b p 2 8 3 
+3 8 9 f 7 c d e o g m l j k i 2 n b p 1 h a 4 5 6 
+i 9 5 6 c 8 4 d b n e f 1 7 h l j k g m 3 o a p 2 
+n 4 o 1 2 3 f p 6 c d 9 a g 5 i e 7 b h 8 j k l m 
+7 a k l p j m 5 1 2 3 4 6 b n d 9 o 8 c i e f g h 
+m e j g d i h a l 7 k o p 8 2 3 4 f 6 5 1 n 9 b c 
+8 3 h b f o k 9 g e i j c l m n a p 1 2 7 4 5 6 d 
+4 g 2 8 5 9 e 1 7 d n 6 f h c j k m l i o b p 3 a 
+1 p 3 o h 4 j 6 c 8 9 a b i d e f g 5 7 2 k l m n 
+j 6 l a m n p o 2 3 8 5 k 4 7 9 b h c d e f g 1 i 
+e f i 7 b a 5 l m k 1 p g 2 3 4 o 6 n 8 9 d h c j 
+9 c d k n f b g h i j e l m o a p 1 2 3 4 5 6 7 8 
+5 l 7 4 9 e 1 c 8 m f g h d j k 3 a i n p 6 o 2 b 
+p 1 6 2 3 5 9 7 d a o b 8 n e f g c h 4 j l m i k 
+k o m n j b 6 2 3 4 a i 7 c 9 p l 8 d e f g 1 h 5 
+f h 8 i g k l n j o p 1 2 3 4 b 6 5 m 9 a 7 c d e 
+a b c d e p g h i f 5 k m 6 l o 1 2 7 j n 3 8 4 9 
+Time 1.37035
+
+Game 44
+5 2 3 k p 6 7 8 9 a b c n e f 4 h i j g l m d o 1 
+l h n 9 1 d c m 4 5 6 7 3 o a b f 2 e p g 8 i j k 
+g i 4 j m 3 h n o l 1 2 k 9 5 6 c 8 7 d b a p e f 
+b o d e f g 2 i j k l 8 4 m p 1 5 3 9 a 7 h n c 6 
+6 7 8 c a 1 b f e p g h d j i l m k o n 9 2 3 4 5 
+2 c h 5 6 7 8 9 n b p d e f g m i j k l 4 3 o 1 a 
+m n o p e 2 3 l g 4 7 b 1 a 9 5 d c f 6 h i j k 8 
+j l i 4 k 5 m o p 1 2 3 h 8 6 7 g 9 a b c d e f n 
+7 d 1 f g a i j k e o m c 5 n 2 3 4 h 8 p 6 9 b l 
+8 3 9 a b c d h f 6 k i j 4 l e n o p 1 2 g 7 5 m 
+3 4 5 6 o 8 9 a b c d e f k h i j 7 l m n 1 g p 2 
+i 8 p 1 h n 4 5 6 7 3 9 a 2 c o e d g f m j k l b 
+n j m l d k o p 1 2 8 4 5 g 7 3 9 a b c 6 e f i h 
+k e f g 7 i j 3 l m n o p b 1 h 4 5 6 2 8 9 a d c 
+c 9 a b 2 f e g d h m l i 6 j n 8 p 1 k 3 4 5 7 o 
+4 5 6 7 j 9 a b c d f n o h 3 8 k e m i 1 p l 2 g 
+h p e 2 l 4 1 6 5 8 i a 9 c d f o g n 3 j k b m 7 
+9 1 k m n l g e 2 3 4 5 6 p 8 j a b d 7 o f c h i 
+o f g 3 i j p k m n e 1 b 7 2 c l 6 4 h a 5 8 9 d 
+d a b 8 c o f 7 h i j k g l m 9 p 1 2 5 e n 4 6 3 
+p 6 7 h 9 e n d a j c g 8 i b k 1 m 5 o f l 2 3 4 
+a k 2 o 3 b 6 4 8 9 5 f l 1 e g 7 h i j d c m n p 
+1 m l n 4 p 5 2 3 g 9 6 7 d k a b f c e i o h 8 j 
+f g j i 5 m l c 7 o h p 2 3 4 d 6 n 8 9 k b 1 a e 
+e b c d 8 h k 1 i f a j m n o p 2 l 3 4 5 7 6 g 9 
+Time 1.04781
+
+Game 45
+b 2 3 4 5 c 7 6 k a 1 d n e l f 9 i j h o m g p 8 
+a c n o m 1 2 3 j 5 6 7 8 9 f b p d 4 g l h i k e 
+g h 7 j k l m n o p i 2 3 4 5 6 c 8 a e b 1 d 9 f 
+l d i e f 9 4 8 g h a m b o p 1 2 3 k 5 6 c 7 n j 
+p 1 8 9 6 b i d e f g h c j k l m n o 7 a 2 3 4 5 
+6 k 4 5 1 f 3 9 a 7 l g e d b h i j n c m 8 2 o p 
+e n o p 3 2 c 4 5 6 7 8 9 k m g d b f a h i j 1 l 
+2 i j h l m n p b 1 f 3 4 5 6 7 8 9 e o c d k a g 
+c 7 d a g h 8 j l k p i o 2 1 m 3 4 5 6 e n 9 f b 
+m 8 9 f b o d e i g h c j a n 2 k l p 1 7 3 4 5 6 
+3 9 5 6 7 p a g 4 b d e f 1 h i j k c m n o 8 l 2 
+n o p 1 2 8 h 5 6 c 4 9 a b 3 d 7 e g l k j f i m 
+i j k l c n o f 3 2 m 5 p 6 7 8 4 a 9 b d e 1 g h 
+d 4 e g h k j 7 1 m 8 l i n 2 3 o f 6 p 5 9 a b c 
+8 m f b a d e i 9 l o j k g c n h 5 1 2 3 4 p 6 7 
+o 5 6 7 8 4 9 a c d b f g h i k e 1 m n j p l 2 3 
+4 3 1 m p 6 5 b 7 8 2 a d c 9 j f h l i g k o e n 
+j e l c n g p 1 2 3 5 k 6 7 4 9 a o b d 8 f m h i 
+h f g 2 i j k l m n e p 1 3 o 4 5 6 7 8 9 a b c d 
+9 a b k d e f o h i j n l m 8 c g p 2 3 4 5 6 7 1 
+1 6 2 8 9 a b c d e n 4 7 i j o l m h f p g 5 3 k 
+5 p c 3 4 7 6 h 8 9 k b 2 f d a n g i j 1 l e m o 
+k l m n o i 1 2 p 4 3 6 5 8 g e b c d 9 f 7 h j a 
+f g a i j 3 l m n o 9 1 h p e 5 6 7 8 k 2 b c d 4 
+7 b h d e 5 g k f j c o m l a p 1 2 3 4 i 6 n 8 9 
+Time 0.739604
+
+Game 46
+1 2 k 4 3 6 n j 9 a g c d m f e h i 7 5 l o 8 b p 
+l o e 9 p 1 5 3 7 k 6 h 8 4 a b c d n f g m 2 j i 
+g h i n f l m p o 2 1 b 3 7 5 6 a j 9 8 e c d 4 k 
+b m c j 5 g 8 i d h l o n e p 1 2 3 4 k 6 7 f 9 a 
+6 7 8 d a b c 4 e f 2 j i 9 k o g l m p 1 h 3 n 5 
+m i 4 k 6 2 p 7 a b e 8 c f g h d 9 j l o 3 n 5 1 
+a n o p 1 5 3 8 4 6 7 2 9 d b c m e f g h i j k l 
+2 c 7 3 l m 9 o j g h i 4 5 6 k 8 n a 1 b d e p f 
+f d j e g h i n k l m 3 o p 1 2 b 4 5 6 7 8 9 a c 
+h 8 9 5 b c d e f 1 a n j k l 7 i o p 3 2 g 4 6 m 
+3 4 b 6 7 8 h a g c n 5 f l d i j k 1 o m 9 p e 2 
+o p 1 g n 3 4 2 6 7 8 9 b a c d e 5 l m i j k f h 
+i j h f m p o k 1 n 3 4 e 6 2 8 9 a b c d l 5 g 7 
+d e 5 2 k i j 9 l m o g p 1 h 3 4 f 6 7 8 n a c b 
+8 9 a l c d e f b 5 i 7 k j m g n p 2 h 3 4 o 1 6 
+4 5 6 7 8 9 a b n d f m g h i j k 1 o e c p l 2 3 
+n a p b d 4 7 6 c 8 9 e 5 o 3 l f 2 h i j k 1 m g 
+j k l m o e g 1 2 p 4 a 6 c 8 9 7 b 3 d 5 f i h n 
+e f g h i j k l m 3 d p 1 2 7 4 5 6 c n 9 a b o 8 
+9 1 3 c 2 o f 5 h i j k l b n m p 8 g a 4 e 6 7 d 
+5 l f 8 9 a 6 c i e b d h g j n o m k 2 p 1 7 3 4 
+p 6 2 a 4 7 b d 8 9 c 1 m n e f 3 g i j k 5 h l o 
+k 3 m o e n 1 h p 4 5 6 7 8 9 a l c d b f 2 g i j 
+7 g n 1 j k l m 3 o p f 2 i 4 5 6 h 8 9 a b c d e 
+c b d i h f 2 g 5 j k l a 3 o p 1 7 e 4 n 6 m 8 9 
+Time 9.39323
+
+Game 47
+m 2 3 1 h 6 7 n 9 a b f 4 e 5 g d i j 8 l p k o c 
+l a n j p 1 m 3 4 g 7 o k d c b e 5 2 f 6 8 i h 9 
+4 7 i g 5 e p o 8 l 1 2 3 9 n 6 c k h a b m d j f 
+b c d o f k h i j 5 l m 6 8 p 1 7 3 4 9 e 2 n g a 
+6 e 8 9 k b c d 2 f g h i j a l m n o p 4 5 3 1 7 
+2 3 4 5 b 9 8 e a 6 p d c 7 g h i j k l m n o f 1 
+d n 1 k 6 7 3 b 5 o a 8 9 4 f c 2 e m g h i j p l 
+j i h f l m n 4 p 1 2 3 o 5 6 7 8 d a b c k 9 e g 
+c o p m g 2 l j f h i n e k 1 9 3 4 5 6 7 d 8 a b 
+7 8 e a 9 g i k d c h b j m l p n o f 1 2 3 4 5 6 
+3 4 5 6 c 8 g a b i d e f 1 h m j 9 l k n o p 7 2 
+n 1 7 h 2 3 4 5 6 p 8 9 a b k d o f e i j c g l m 
+i j k p m n o 9 1 2 3 4 l 6 7 8 5 a g c d e f b h 
+g d f e a c j m l k o i p n 2 3 4 h b 7 8 9 1 6 5 
+8 9 b l o d e f h 7 c j 5 g m n 6 p 1 2 3 4 a i k 
+h 5 6 b 8 p a 1 c d m 7 g f i 4 k l 9 n o j e 2 3 
+o p j 2 3 4 5 6 7 8 9 a b c d e f g i m 1 h l k n 
+1 k l 7 n i 9 2 e 3 4 5 h o 8 j a b c d g f 6 m p 
+e f g 4 i j k l m n 6 p 1 2 3 o h 8 7 5 9 a b c d 
+9 m a c d h f g o b j k n l e 2 p 1 6 3 i 7 5 8 4 
+5 6 9 8 7 a b c 3 e f g d h j k l m n o p 1 2 4 i 
+p h 2 3 4 5 1 7 i 9 e 6 8 a b f g c d j k l m n o 
+k l m n 1 o d 8 g 4 5 c 7 i 9 a b 2 p e f 6 h 3 j 
+f g o i j l 6 p k m n 1 2 3 4 5 9 7 8 h a b c d e 
+a b c d e f 2 h n j k l m p o i 1 6 3 4 5 g 7 9 8 
+Time 9.86157
+
+Game 48
+1 2 3 6 5 g 7 8 4 a b n c e p f h k j 9 l m d o i 
+l m 4 o p 1 2 d b 5 6 7 9 f a i c 8 e n g h 3 j k 
+g h i j k l o n 9 p 1 2 m 4 5 6 7 d 3 a b c 8 e f 
+b n f e 8 i h k j c l g 3 o d 1 m 2 4 5 p 7 6 9 a 
+9 7 d c a m 3 e 6 f 8 h i j k l b g o p n 1 5 4 2 
+2 i 7 3 6 9 8 f p b c d e a l 5 g j h k o n 4 m 1 
+m c o 5 1 6 n 4 a 3 7 8 b 9 g 2 d e f i h k j p l 
+4 l j k h 5 m 1 o e 2 3 6 p n 7 8 9 a b c d i f g 
+n d e p g h l 2 k j f i o 5 1 m 3 4 c 6 7 8 9 a b 
+f 8 9 a b c d i 7 g h m j k 4 o n 1 p l 2 3 e 5 6 
+3 4 5 2 7 b c a 8 k d e f g h 9 j i l m 6 o p 1 n 
+8 o n 1 l 3 4 p 5 6 j 9 a b c d e f k g i 2 h 7 m 
+i j k 9 m 2 g o 1 n 3 p 5 6 7 8 a h b c d 4 f l e 
+h e p g f d i j l m n o k 1 2 3 4 6 5 7 8 9 a b c 
+d 6 a b c 7 e 9 f h i 4 8 l m n o p 1 2 3 j k g 5 
+c 5 8 7 9 n a b 3 d e f g h i j k l 6 4 m p 1 2 o 
+o p 1 h 2 4 f g c 8 9 a d n 6 e 5 b m 3 j i l k 7 
+j k 6 m n o p 5 2 1 4 b l 7 8 c i a 9 d e f g h 3 
+e f g 4 i j k 6 m l o 5 1 2 3 h p n 7 8 9 a b c d 
+a 3 b l d e 9 7 h i m k p c j g 1 o 2 f 4 5 n 6 8 
+5 9 l 8 4 a 6 c d 7 g j h i b k f m n o 1 e 2 3 p 
+6 1 2 f o 8 5 3 g 9 a c 4 d e p l 7 i j k b m n h 
+k a m n 3 p 1 l e 4 5 6 7 8 9 b 2 c d h f g o i j 
+7 g h i j k b m n o p 1 2 3 f 4 6 5 8 e a l c d 9 
+p b c d e f j h i 2 k l n m o a 9 3 g 1 5 6 7 8 4 
+Time 0.610263
+
+Game 49
+c 2 1 3 5 6 7 8 9 a f b l e j 4 d i h k g m n o p 
+l m p b n 1 4 f 3 5 2 7 8 9 k g c e o a 6 d i j h 
+g h i j k 2 m n o p 6 d 3 4 a l 7 8 9 f b c 1 e 5 
+4 e d o f g c i j k 5 m n h p 1 2 3 6 b l 7 8 9 a 
+6 7 8 9 a b h d e l g c i o 1 5 m n j p f 2 3 4 k 
+2 d 4 n 6 7 5 9 a g c 8 e 3 f h b j k l m i o p 1 
+m 8 o p 1 l 2 c 4 b 7 i 9 6 g f 3 d a n h 5 e k j 
+h i j e l m k 3 p 6 1 2 4 5 o 7 8 9 c g d n a f b 
+f 3 a k g o i j h 1 d n m p b 2 5 4 e 6 7 8 9 c l 
+7 c 9 5 b 8 d e f n h a j k l m i o p 1 2 3 4 6 g 
+b 4 5 6 7 d 9 a 8 c m e f g h i j k l 3 n o p 1 2 
+p o n 1 2 3 l 4 6 7 8 9 5 b c d e f g h i j k a m 
+i j k l m n o 5 1 2 3 4 a d 7 8 9 p b c e h f g 6 
+3 a e g h i j k b f n o p 1 2 6 4 5 m 7 8 9 d l c 
+8 9 f d c h e p g m i j k l 6 n o a 1 2 3 4 5 b 7 
+1 n 6 7 8 c b o k d e f g a i j h l 4 m 9 p 2 5 3 
+o 5 2 h p 4 a 6 7 8 9 k b c d e f g 3 i j 1 l m n 
+j k 3 m 9 5 p 1 n i 4 l 6 7 8 c a b 2 d o e g h f 
+e f g 4 i j 3 l m h o p 1 2 n 9 k 6 7 5 c a b 8 d 
+a l b c d e f g 2 9 j 5 h m 3 o p 1 n 8 4 k 6 7 i 
+9 1 7 8 3 a n b c e l h d i 5 k 6 m f o p g j 2 4 
+5 p l 2 4 9 6 7 d 3 a 1 c 8 e b g h i j k f m n o 
+k 6 m f o p g 2 5 4 b 3 7 j 9 a n c d e 1 l h i 8 
+n g h i j k 8 m l o p 6 2 f 4 3 1 7 5 9 a b c d e 
+d b c a e f 1 h i j k g o n m p l 2 8 4 5 6 7 3 9 
+Time 0.805081
+
+Game 50
+1 2 3 4 l 8 j 5 9 a 6 m d e f i h b g k 7 c n o p 
+e m n 5 p 1 2 3 6 l b 7 k 9 a 4 c o f d g h i j 8 
+g h i j k d m n o p 1 c 3 4 2 6 7 8 9 a b f 5 l e 
+b c 7 9 8 g 4 e i f h n l o p 1 2 3 j 5 m k d 6 a 
+6 d a o f b c k 7 h g 8 i j 5 l m n e p 1 2 3 4 9 
+2 3 4 e 6 7 8 9 5 b k d n f g h a j p l c i o m 1 
+c f o p 1 2 3 l d 6 7 j 8 a b m 4 e i g h n 9 5 k 
+h a j k b m n i p 1 2 3 4 5 6 7 8 9 o c l d e f g 
+l n 9 i g c e j f k m h o p 1 3 d 2 5 6 a 8 4 7 b 
+7 8 d m 5 h a 4 g o e i 9 c l b n f k 1 2 3 j p 6 
+3 4 5 l m n 9 c b 8 d 2 f g h k j i a e 6 o p 1 7 
+n o p 1 2 3 6 7 4 d 8 9 e b c g f 5 l h i j k a m 
+i j k 6 c a o p 1 2 3 4 5 l 7 n 9 d b m 8 e f g h 
+d e f a h j i m l g n o p 1 k 8 3 7 6 4 5 9 2 b c 
+8 9 g b 7 k h f e 5 i a j 6 m c o p 1 2 3 4 l n d 
+4 5 1 7 a l d b c n 9 f g h e j k 6 m i o p 8 2 3 
+m p 8 2 3 4 5 a h 9 o l b i d e 1 g c n j 7 6 k f 
+j k l c i o p 1 2 3 a 5 6 7 8 9 b 4 h f e m g d n 
+o g e h n f k 6 m j 4 p 1 2 3 d 5 l 7 8 9 a b c i 
+9 6 b f d e 7 g 8 i j k c m n o p a 2 3 4 5 1 h l 
+5 i c 8 9 6 g o k e f b h d j 2 l m n 7 p 1 a 3 4 
+p 1 6 3 4 5 b d a 7 c e 2 k i f g h 8 j n l m 9 o 
+k l m n o p 1 2 3 4 5 6 7 8 9 a e c d b f g h i j 
+f 7 h g j i l 8 n m p 1 a 3 o 5 6 k 4 9 d b c e 2 
+a b 2 d e 9 f h j c l g m n 4 p i 1 3 o k 6 7 8 5 
+Time 2.2753
+
+Times: [20.7878, 31.7759, 1.65664, 8.42297, 2.00544, 0.69083, 0.492365, 0.469014, 0.301641, 1.43217, 1.85222, 3.94229, 2.56238, 2.26996, 1.5054, 1.74833, 3.28878, 1.77653, 0.418269, 0.501184, 0.680024, 0.424428, 0.405458, 1.32932, 0.32507, 6.69844, 1.12201, 1.65012, 5.59863, 0.793195, 1.89011, 0.747497, 0.531578, 1.94104, 0.84919, 0.625284, 0.605796, 0.884862, 15.3505, 0.708176, 0.709022, 58.7798, 1.37035, 1.04781, 0.739604, 9.39323, 9.86157, 0.610263, 0.805081, 2.2753]
+
+Mean CPU Time: 4.33305742
+Standard Deviation CPU Time: 9.704970538887173
+Variance CPU Time: 94.18645316066797
+Min CPU Time: 0.301641, Game 8
+Max CPU Time: 58.7798, Game 41
